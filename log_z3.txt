@@ -1,0 +1,6490 @@
+
+COMMAND: z3 -T:900 smt-sessions/z3-CartesianPolar.scala-0.smt2
+TIMESTAMP: 2025-07-21T16:39:31+02:00
+OUTPUT: unsat
+TIME:
+  real: 778.264
+  user: 774.774
+  sys:  2.895
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-CartesianPolar.scala-1.smt2
+TIMESTAMP: 2025-07-21T16:52:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 57.770
+  user: 57.574
+  sys:  0.167
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-CartesianPolar.scala-2.smt2
+TIMESTAMP: 2025-07-21T16:53:27+02:00
+OUTPUT: unsat
+TIME:
+  real: 218.248
+  user: 217.216
+  sys:  0.923
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Complex.scala-0.smt2
+TIMESTAMP: 2025-07-21T16:57:06+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.194
+  user: 2.184
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Complex.scala-1.smt2
+TIMESTAMP: 2025-07-21T16:57:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.313
+  user: 0.308
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Complex.scala-2.smt2
+TIMESTAMP: 2025-07-21T16:57:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.355
+  user: 0.350
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Complex.scala-3.smt2
+TIMESTAMP: 2025-07-21T16:57:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 152.309
+  user: 151.939
+  sys:  0.329
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Complex.scala-4.smt2
+TIMESTAMP: 2025-07-21T16:59:41+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.043
+  user: 896.699
+  sys:  3.119
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Complex.scala-5.smt2
+TIMESTAMP: 2025-07-21T17:14:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 34.896
+  user: 34.439
+  sys:  0.445
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Complex.scala-6.smt2
+TIMESTAMP: 2025-07-21T17:15:16+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.030
+  user: 896.623
+  sys:  3.291
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Complex.scala-7.smt2
+TIMESTAMP: 2025-07-21T17:30:16+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.944
+  user: 3.926
+  sys:  0.017
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Complex.scala-8.smt2
+TIMESTAMP: 2025-07-21T17:30:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 26.083
+  user: 25.971
+  sys:  0.107
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-0.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-1.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-2.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.016
+  user: 0.013
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-3.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.016
+  user: 0.013
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-4.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.016
+  user: 0.013
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-5.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.018
+  user: 0.015
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-6.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.017
+  user: 0.013
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-7.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.020
+  user: 0.016
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-8.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.016
+  user: 0.013
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-9.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.020
+  user: 0.016
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-10.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-11.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.011
+  user: 0.008
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-12.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.020
+  user: 0.017
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-13.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.017
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-14.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.017
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-15.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.021
+  user: 0.018
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-16.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-17.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-18.smt2
+TIMESTAMP: 2025-07-21T17:30:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 134.745
+  user: 134.191
+  sys:  0.537
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-19.smt2
+TIMESTAMP: 2025-07-21T17:33:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.009
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-20.smt2
+TIMESTAMP: 2025-07-21T17:33:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.016
+  user: 0.013
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-21.smt2
+TIMESTAMP: 2025-07-21T17:33:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.016
+  user: 0.013
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-22.smt2
+TIMESTAMP: 2025-07-21T17:33:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.018
+  user: 0.013
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-23.smt2
+TIMESTAMP: 2025-07-21T17:33:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.019
+  user: 0.015
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-24.smt2
+TIMESTAMP: 2025-07-21T17:33:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.017
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-25.smt2
+TIMESTAMP: 2025-07-21T17:33:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.019
+  user: 0.016
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-26.smt2
+TIMESTAMP: 2025-07-21T17:33:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.016
+  user: 0.013
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-27.smt2
+TIMESTAMP: 2025-07-21T17:33:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.020
+  user: 0.017
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-28.smt2
+TIMESTAMP: 2025-07-21T17:33:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 163.866
+  user: 163.189
+  sys:  0.654
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-29.smt2
+TIMESTAMP: 2025-07-21T17:35:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.021
+  user: 0.017
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-30.smt2
+TIMESTAMP: 2025-07-21T17:35:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.021
+  user: 0.016
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-31.smt2
+TIMESTAMP: 2025-07-21T17:35:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.026
+  user: 0.022
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-32.smt2
+TIMESTAMP: 2025-07-21T17:35:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.026
+  user: 0.022
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-33.smt2
+TIMESTAMP: 2025-07-21T17:35:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.021
+  user: 0.019
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-34.smt2
+TIMESTAMP: 2025-07-21T17:35:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-35.smt2
+TIMESTAMP: 2025-07-21T17:35:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-36.smt2
+TIMESTAMP: 2025-07-21T17:35:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-37.smt2
+TIMESTAMP: 2025-07-21T17:35:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-38.smt2
+TIMESTAMP: 2025-07-21T17:35:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-39.smt2
+TIMESTAMP: 2025-07-21T17:35:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-40.smt2
+TIMESTAMP: 2025-07-21T17:35:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-41.smt2
+TIMESTAMP: 2025-07-21T17:35:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 50.800
+  user: 50.650
+  sys:  0.143
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-42.smt2
+TIMESTAMP: 2025-07-21T17:36:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 14.323
+  user: 14.274
+  sys:  0.045
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-43.smt2
+TIMESTAMP: 2025-07-21T17:36:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 36.282
+  user: 36.169
+  sys:  0.108
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-44.smt2
+TIMESTAMP: 2025-07-21T17:37:26+02:00
+OUTPUT: unsat
+TIME:
+  real: 30.919
+  user: 30.822
+  sys:  0.092
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-45.smt2
+TIMESTAMP: 2025-07-21T17:37:57+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.014
+  user: 0.011
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-46.smt2
+TIMESTAMP: 2025-07-21T17:37:57+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.717
+  user: 0.711
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-47.smt2
+TIMESTAMP: 2025-07-21T17:37:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.706
+  user: 0.700
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-48.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-49.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-50.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.012
+  user: 0.009
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-51.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-52.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-53.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-54.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-55.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.011
+  user: 0.009
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-56.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.016
+  user: 0.013
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-57.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-58.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.006
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-59.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.072
+  user: 0.068
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-60.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.043
+  user: 0.039
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-61.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-62.smt2
+TIMESTAMP: 2025-07-21T17:37:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 18.079
+  user: 17.991
+  sys:  0.083
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-63.smt2
+TIMESTAMP: 2025-07-21T17:38:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.068
+  user: 0.059
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-64.smt2
+TIMESTAMP: 2025-07-21T17:38:17+02:00
+OUTPUT: sat
+TIME:
+  real: 897.808
+  user: 895.050
+  sys:  2.645
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-65.smt2
+TIMESTAMP: 2025-07-21T17:53:15+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.070
+  user: 0.060
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-66.smt2
+TIMESTAMP: 2025-07-21T17:53:15+02:00
+OUTPUT: unsat
+TIME:
+  real: 27.180
+  user: 27.083
+  sys:  0.091
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-67.smt2
+TIMESTAMP: 2025-07-21T17:53:42+02:00
+OUTPUT: sat
+TIME:
+  real: 334.226
+  user: 333.197
+  sys:  0.978
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-68.smt2
+TIMESTAMP: 2025-07-21T17:59:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.182
+  user: 3.154
+  sys:  0.024
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-69.smt2
+TIMESTAMP: 2025-07-21T17:59:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.808
+  user: 1.784
+  sys:  0.021
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-70.smt2
+TIMESTAMP: 2025-07-21T17:59:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-71.smt2
+TIMESTAMP: 2025-07-21T17:59:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-72.smt2
+TIMESTAMP: 2025-07-21T17:59:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.139
+  user: 0.128
+  sys:  0.010
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-73.smt2
+TIMESTAMP: 2025-07-21T17:59:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.089
+  user: 0.079
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-74.smt2
+TIMESTAMP: 2025-07-21T17:59:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.976
+  user: 1.958
+  sys:  0.018
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-75.smt2
+TIMESTAMP: 2025-07-21T17:59:24+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.036
+  user: 0.030
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-76.smt2
+TIMESTAMP: 2025-07-21T17:59:24+02:00
+OUTPUT: unsat
+TIME:
+  real: 26.814
+  user: 26.702
+  sys:  0.106
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-77.smt2
+TIMESTAMP: 2025-07-21T17:59:51+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.032
+  user: 0.027
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-78.smt2
+TIMESTAMP: 2025-07-21T17:59:51+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.062
+  user: 0.054
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-79.smt2
+TIMESTAMP: 2025-07-21T17:59:51+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.027
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-80.smt2
+TIMESTAMP: 2025-07-21T17:59:51+02:00
+OUTPUT: unsat
+TIME:
+  real: 9.833
+  user: 9.792
+  sys:  0.038
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-81.smt2
+TIMESTAMP: 2025-07-21T18:00:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.027
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-82.smt2
+TIMESTAMP: 2025-07-21T18:00:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.060
+  user: 0.052
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-83.smt2
+TIMESTAMP: 2025-07-21T18:00:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.032
+  user: 0.027
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-84.smt2
+TIMESTAMP: 2025-07-21T18:00:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.028
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-85.smt2
+TIMESTAMP: 2025-07-21T18:00:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.036
+  user: 0.029
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-86.smt2
+TIMESTAMP: 2025-07-21T18:00:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.330
+  user: 3.296
+  sys:  0.031
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-87.smt2
+TIMESTAMP: 2025-07-21T18:00:04+02:00
+OUTPUT: unsat
+TIME:
+  real: 4.856
+  user: 4.819
+  sys:  0.033
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-88.smt2
+TIMESTAMP: 2025-07-21T18:00:09+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.650
+  user: 1.625
+  sys:  0.023
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-89.smt2
+TIMESTAMP: 2025-07-21T18:00:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-90.smt2
+TIMESTAMP: 2025-07-21T18:00:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.252
+  user: 2.225
+  sys:  0.024
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-91.smt2
+TIMESTAMP: 2025-07-21T18:00:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.036
+  user: 0.029
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-92.smt2
+TIMESTAMP: 2025-07-21T18:00:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 24.247
+  user: 24.126
+  sys:  0.111
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-93.smt2
+TIMESTAMP: 2025-07-21T18:00:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.030
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-94.smt2
+TIMESTAMP: 2025-07-21T18:00:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 31.322
+  user: 31.182
+  sys:  0.130
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-95.smt2
+TIMESTAMP: 2025-07-21T18:01:09+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.029
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-96.smt2
+TIMESTAMP: 2025-07-21T18:01:09+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.494
+  user: 3.463
+  sys:  0.029
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-97.smt2
+TIMESTAMP: 2025-07-21T18:01:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-98.smt2
+TIMESTAMP: 2025-07-21T18:01:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-99.smt2
+TIMESTAMP: 2025-07-21T18:01:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 33.639
+  user: 33.510
+  sys:  0.128
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-100.smt2
+TIMESTAMP: 2025-07-21T18:01:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.408
+  user: 1.373
+  sys:  0.032
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-101.smt2
+TIMESTAMP: 2025-07-21T18:01:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 636.736
+  user: 635.001
+  sys:  1.667
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-102.smt2
+TIMESTAMP: 2025-07-21T18:12:24+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.069
+  user: 0.060
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-103.smt2
+TIMESTAMP: 2025-07-21T18:12:24+02:00
+OUTPUT: unsat
+TIME:
+  real: 24.755
+  user: 24.658
+  sys:  0.090
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-104.smt2
+TIMESTAMP: 2025-07-21T18:12:49+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-105.smt2
+TIMESTAMP: 2025-07-21T18:12:49+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-106.smt2
+TIMESTAMP: 2025-07-21T18:12:49+02:00
+OUTPUT: unsat
+TIME:
+  real: 4.163
+  user: 4.134
+  sys:  0.027
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-107.smt2
+TIMESTAMP: 2025-07-21T18:12:53+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.032
+  user: 0.027
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-108.smt2
+TIMESTAMP: 2025-07-21T18:12:53+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-109.smt2
+TIMESTAMP: 2025-07-21T18:12:53+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.071
+  user: 0.063
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-110.smt2
+TIMESTAMP: 2025-07-21T18:12:53+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.491
+  user: 1.468
+  sys:  0.021
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-111.smt2
+TIMESTAMP: 2025-07-21T18:12:55+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.513
+  user: 3.488
+  sys:  0.023
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-112.smt2
+TIMESTAMP: 2025-07-21T18:12:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.072
+  user: 2.053
+  sys:  0.017
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-113.smt2
+TIMESTAMP: 2025-07-21T18:13:00+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.292
+  user: 3.266
+  sys:  0.024
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-114.smt2
+TIMESTAMP: 2025-07-21T18:13:04+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-115.smt2
+TIMESTAMP: 2025-07-21T18:13:04+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-116.smt2
+TIMESTAMP: 2025-07-21T18:13:04+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.096
+  user: 0.088
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-117.smt2
+TIMESTAMP: 2025-07-21T18:13:04+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.029
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-118.smt2
+TIMESTAMP: 2025-07-21T18:13:04+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.036
+  user: 0.029
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-119.smt2
+TIMESTAMP: 2025-07-21T18:13:04+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.153
+  user: 2.125
+  sys:  0.025
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-120.smt2
+TIMESTAMP: 2025-07-21T18:13:06+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.036
+  user: 0.029
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-121.smt2
+TIMESTAMP: 2025-07-21T18:13:06+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.399
+  user: 2.371
+  sys:  0.024
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-122.smt2
+TIMESTAMP: 2025-07-21T18:13:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 5.633
+  user: 5.600
+  sys:  0.030
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-123.smt2
+TIMESTAMP: 2025-07-21T18:13:14+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-124.smt2
+TIMESTAMP: 2025-07-21T18:13:14+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.029
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-125.smt2
+TIMESTAMP: 2025-07-21T18:13:14+02:00
+OUTPUT: unsat
+TIME:
+  real: 5.945
+  user: 5.911
+  sys:  0.031
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-126.smt2
+TIMESTAMP: 2025-07-21T18:13:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-127.smt2
+TIMESTAMP: 2025-07-21T18:13:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 168.026
+  user: 167.535
+  sys:  0.464
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-128.smt2
+TIMESTAMP: 2025-07-21T18:16:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-129.smt2
+TIMESTAMP: 2025-07-21T18:16:08+02:00
+OUTPUT: sat
+TIME:
+  real: 713.557
+  user: 711.155
+  sys:  2.311
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-130.smt2
+TIMESTAMP: 2025-07-21T18:28:02+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-131.smt2
+TIMESTAMP: 2025-07-21T18:28:02+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.387
+  user: 0.381
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-132.smt2
+TIMESTAMP: 2025-07-21T18:28:02+02:00
+OUTPUT: unsat
+TIME:
+  real: 6.765
+  user: 6.742
+  sys:  0.021
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-133.smt2
+TIMESTAMP: 2025-07-21T18:28:09+02:00
+OUTPUT: unsat
+TIME:
+  real: 38.567
+  user: 38.434
+  sys:  0.126
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-134.smt2
+TIMESTAMP: 2025-07-21T18:28:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 168.346
+  user: 167.791
+  sys:  0.534
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-135.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-136.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-137.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-138.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-139.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-140.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-141.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-142.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-143.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.015
+  user: 0.012
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-144.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-145.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.016
+  user: 0.013
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-146.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-147.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-148.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-149.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-150.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-151.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.045
+  user: 0.038
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-152.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-153.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.042
+  user: 0.036
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-154.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-155.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.042
+  user: 0.036
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-156.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-157.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-158.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-159.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-160.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-161.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.091
+  user: 0.082
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-162.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-163.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.092
+  user: 0.083
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-164.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-165.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.096
+  user: 0.085
+  sys:  0.010
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-166.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-167.smt2
+TIMESTAMP: 2025-07-21T18:31:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.092
+  user: 0.082
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-168.smt2
+TIMESTAMP: 2025-07-21T18:31:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-169.smt2
+TIMESTAMP: 2025-07-21T18:31:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-170.smt2
+TIMESTAMP: 2025-07-21T18:31:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-171.smt2
+TIMESTAMP: 2025-07-21T18:31:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-172.smt2
+TIMESTAMP: 2025-07-21T18:31:37+02:00
+OUTPUT: sat
+TIME:
+  real: 391.251
+  user: 389.842
+  sys:  1.358
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-173.smt2
+TIMESTAMP: 2025-07-21T18:38:08+02:00
+OUTPUT: sat
+TIME:
+  real: 590.759
+  user: 588.932
+  sys:  1.759
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-174.smt2
+TIMESTAMP: 2025-07-21T18:47:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.162
+  user: 0.142
+  sys:  0.017
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-175.smt2
+TIMESTAMP: 2025-07-21T18:47:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 130.855
+  user: 130.446
+  sys:  0.391
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-176.smt2
+TIMESTAMP: 2025-07-21T18:50:10+02:00
+OUTPUT: unsat
+TIME:
+  real: 188.900
+  user: 188.333
+  sys:  0.540
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-177.smt2
+TIMESTAMP: 2025-07-21T18:53:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 275.568
+  user: 274.765
+  sys:  0.768
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-178.smt2
+TIMESTAMP: 2025-07-21T18:57:54+02:00
+OUTPUT: sat
+TIME:
+  real: 311.382
+  user: 310.497
+  sys:  0.843
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-179.smt2
+TIMESTAMP: 2025-07-21T19:03:05+02:00
+OUTPUT: sat
+TIME:
+  real: 300.302
+  user: 299.574
+  sys:  0.679
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-180.smt2
+TIMESTAMP: 2025-07-21T19:08:06+02:00
+OUTPUT: unsat
+TIME:
+  real: 816.120
+  user: 813.725
+  sys:  2.277
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-181.smt2
+TIMESTAMP: 2025-07-21T19:21:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.175
+  user: 0.148
+  sys:  0.024
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-182.smt2
+TIMESTAMP: 2025-07-21T19:21:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.489
+  user: 1.461
+  sys:  0.026
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-183.smt2
+TIMESTAMP: 2025-07-21T19:21:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.167
+  user: 0.145
+  sys:  0.021
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-184.smt2
+TIMESTAMP: 2025-07-21T19:21:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.171
+  user: 0.146
+  sys:  0.022
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-185.smt2
+TIMESTAMP: 2025-07-21T19:21:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.183
+  user: 0.160
+  sys:  0.020
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-186.smt2
+TIMESTAMP: 2025-07-21T19:21:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.175
+  user: 0.147
+  sys:  0.028
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-187.smt2
+TIMESTAMP: 2025-07-21T19:21:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.167
+  user: 0.146
+  sys:  0.019
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-188.smt2
+TIMESTAMP: 2025-07-21T19:21:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.199
+  user: 0.173
+  sys:  0.023
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-189.smt2
+TIMESTAMP: 2025-07-21T19:21:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.169
+  user: 0.147
+  sys:  0.020
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-190.smt2
+TIMESTAMP: 2025-07-21T19:21:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.172
+  user: 0.148
+  sys:  0.021
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-191.smt2
+TIMESTAMP: 2025-07-21T19:21:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.188
+  user: 0.167
+  sys:  0.020
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-192.smt2
+TIMESTAMP: 2025-07-21T19:21:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.169
+  user: 0.148
+  sys:  0.019
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-193.smt2
+TIMESTAMP: 2025-07-21T19:21:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.180
+  user: 0.157
+  sys:  0.022
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-194.smt2
+TIMESTAMP: 2025-07-21T19:21:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.189
+  user: 0.168
+  sys:  0.019
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-195.smt2
+TIMESTAMP: 2025-07-21T19:21:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.171
+  user: 0.147
+  sys:  0.022
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-196.smt2
+TIMESTAMP: 2025-07-21T19:21:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.165
+  user: 0.143
+  sys:  0.020
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-197.smt2
+TIMESTAMP: 2025-07-21T19:21:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.188
+  user: 0.164
+  sys:  0.022
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-198.smt2
+TIMESTAMP: 2025-07-21T19:21:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.168
+  user: 0.147
+  sys:  0.019
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-199.smt2
+TIMESTAMP: 2025-07-21T19:21:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.169
+  user: 0.145
+  sys:  0.022
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-200.smt2
+TIMESTAMP: 2025-07-21T19:21:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.177
+  user: 0.155
+  sys:  0.020
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-201.smt2
+TIMESTAMP: 2025-07-21T19:21:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.204
+  user: 0.177
+  sys:  0.024
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-202.smt2
+TIMESTAMP: 2025-07-21T19:21:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.166
+  user: 0.144
+  sys:  0.020
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-203.smt2
+TIMESTAMP: 2025-07-21T19:21:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.234
+  user: 0.205
+  sys:  0.026
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-204.smt2
+TIMESTAMP: 2025-07-21T19:21:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.223
+  user: 0.193
+  sys:  0.027
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-205.smt2
+TIMESTAMP: 2025-07-21T19:21:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.165
+  user: 0.144
+  sys:  0.020
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-206.smt2
+TIMESTAMP: 2025-07-21T19:21:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.399
+  user: 0.369
+  sys:  0.027
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-207.smt2
+TIMESTAMP: 2025-07-21T19:21:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.260
+  user: 0.224
+  sys:  0.032
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-208.smt2
+TIMESTAMP: 2025-07-21T19:21:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.164
+  user: 0.144
+  sys:  0.019
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-209.smt2
+TIMESTAMP: 2025-07-21T19:21:49+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.315
+  user: 0.274
+  sys:  0.038
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-210.smt2
+TIMESTAMP: 2025-07-21T19:21:49+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.293
+  user: 0.245
+  sys:  0.039
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-211.smt2
+TIMESTAMP: 2025-07-21T19:21:49+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.163
+  user: 0.143
+  sys:  0.019
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-212.smt2
+TIMESTAMP: 2025-07-21T19:21:49+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.325
+  user: 0.282
+  sys:  0.039
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-213.smt2
+TIMESTAMP: 2025-07-21T19:21:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.348
+  user: 0.302
+  sys:  0.042
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-214.smt2
+TIMESTAMP: 2025-07-21T19:21:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.382
+  user: 0.333
+  sys:  0.045
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-215.smt2
+TIMESTAMP: 2025-07-21T19:21:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.356
+  user: 0.308
+  sys:  0.044
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-216.smt2
+TIMESTAMP: 2025-07-21T19:21:51+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.751
+  user: 0.702
+  sys:  0.045
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-217.smt2
+TIMESTAMP: 2025-07-21T19:21:52+02:00
+OUTPUT: sat
+TIME:
+  real: 412.319
+  user: 410.946
+  sys:  1.314
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-218.smt2
+TIMESTAMP: 2025-07-21T19:28:44+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.002
+  user: 897.214
+  sys:  2.707
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-219.smt2
+TIMESTAMP: 2025-07-21T19:43:44+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.024
+  user: 897.346
+  sys:  2.575
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-220.smt2
+TIMESTAMP: 2025-07-21T19:58:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.166
+  user: 0.144
+  sys:  0.018
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-221.smt2
+TIMESTAMP: 2025-07-21T19:58:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.014
+  user: 0.011
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-222.smt2
+TIMESTAMP: 2025-07-21T19:58:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-223.smt2
+TIMESTAMP: 2025-07-21T19:58:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.222
+  user: 1.203
+  sys:  0.017
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-224.smt2
+TIMESTAMP: 2025-07-21T19:58:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-225.smt2
+TIMESTAMP: 2025-07-21T19:58:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.010
+  user: 0.007
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-226.smt2
+TIMESTAMP: 2025-07-21T19:58:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-227.smt2
+TIMESTAMP: 2025-07-21T19:58:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-228.smt2
+TIMESTAMP: 2025-07-21T19:58:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-229.smt2
+TIMESTAMP: 2025-07-21T19:58:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.012
+  user: 0.010
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-230.smt2
+TIMESTAMP: 2025-07-21T19:58:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-231.smt2
+TIMESTAMP: 2025-07-21T19:58:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-232.smt2
+TIMESTAMP: 2025-07-21T19:58:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-233.smt2
+TIMESTAMP: 2025-07-21T19:58:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-234.smt2
+TIMESTAMP: 2025-07-21T19:58:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.032
+  user: 0.028
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-235.smt2
+TIMESTAMP: 2025-07-21T19:58:45+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.032
+  user: 897.563
+  sys:  2.367
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-236.smt2
+TIMESTAMP: 2025-07-21T20:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.009
+  user: 0.006
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-237.smt2
+TIMESTAMP: 2025-07-21T20:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.422
+  user: 0.412
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-238.smt2
+TIMESTAMP: 2025-07-21T20:13:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.156
+  user: 0.146
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-239.smt2
+TIMESTAMP: 2025-07-21T20:13:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.403
+  user: 0.394
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-240.smt2
+TIMESTAMP: 2025-07-21T20:13:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.209
+  user: 0.199
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-241.smt2
+TIMESTAMP: 2025-07-21T20:13:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.147
+  user: 0.140
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-242.smt2
+TIMESTAMP: 2025-07-21T20:13:47+02:00
+OUTPUT: sat
+TIME:
+  real: 400.997
+  user: 399.704
+  sys:  1.215
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-243.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-244.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-245.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.009
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-246.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.009
+  user: 0.006
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-247.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-248.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-249.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-250.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-251.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.030
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-252.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-253.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-254.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.032
+  user: 0.028
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-255.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.031
+  user: 0.027
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-256.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.029
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-257.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.032
+  user: 0.028
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-258.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.032
+  user: 0.028
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-259.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.032
+  user: 0.028
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-260.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.031
+  user: 0.027
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-261.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.031
+  user: 0.026
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-262.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.009
+  user: 0.005
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-263.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.030
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-264.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.009
+  user: 0.005
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-265.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.037
+  user: 0.033
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-266.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-267.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.037
+  user: 0.032
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-268.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-269.smt2
+TIMESTAMP: 2025-07-21T20:20:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.041
+  user: 0.036
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-270.smt2
+TIMESTAMP: 2025-07-21T20:20:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.031
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-271.smt2
+TIMESTAMP: 2025-07-21T20:20:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.032
+  user: 0.028
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-272.smt2
+TIMESTAMP: 2025-07-21T20:20:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.006
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-273.smt2
+TIMESTAMP: 2025-07-21T20:20:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 4.339
+  user: 4.280
+  sys:  0.054
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-274.smt2
+TIMESTAMP: 2025-07-21T20:20:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.010
+  user: 0.006
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-275.smt2
+TIMESTAMP: 2025-07-21T20:20:33+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.046
+  user: 896.954
+  sys:  2.968
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-276.smt2
+TIMESTAMP: 2025-07-21T20:35:33+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.043
+  user: 897.130
+  sys:  2.798
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-277.smt2
+TIMESTAMP: 2025-07-21T20:50:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.009
+  user: 0.006
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-278.smt2
+TIMESTAMP: 2025-07-21T20:50:33+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.038
+  user: 897.291
+  sys:  2.630
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-279.smt2
+TIMESTAMP: 2025-07-21T21:05:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-280.smt2
+TIMESTAMP: 2025-07-21T21:05:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 94.292
+  user: 94.060
+  sys:  0.222
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-281.smt2
+TIMESTAMP: 2025-07-21T21:07:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.021
+  user: 0.017
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-282.smt2
+TIMESTAMP: 2025-07-21T21:07:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-283.smt2
+TIMESTAMP: 2025-07-21T21:07:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-284.smt2
+TIMESTAMP: 2025-07-21T21:07:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-285.smt2
+TIMESTAMP: 2025-07-21T21:07:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-286.smt2
+TIMESTAMP: 2025-07-21T21:07:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-287.smt2
+TIMESTAMP: 2025-07-21T21:07:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-288.smt2
+TIMESTAMP: 2025-07-21T21:07:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.011
+  user: 0.008
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-289.smt2
+TIMESTAMP: 2025-07-21T21:07:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-290.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-291.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-292.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-293.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.014
+  user: 0.012
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-294.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.006
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-295.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-296.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-297.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.157
+  user: 0.154
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-298.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.020
+  user: 0.016
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-299.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.024
+  user: 0.020
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-300.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.019
+  user: 0.016
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-301.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.137
+  user: 0.130
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-302.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.345
+  user: 0.338
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-303.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-304.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-305.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.021
+  user: 0.017
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-306.smt2
+TIMESTAMP: 2025-07-21T21:07:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 4.706
+  user: 4.680
+  sys:  0.023
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-307.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-308.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-309.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.023
+  user: 0.020
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-310.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-311.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-312.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-313.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-314.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-315.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.060
+  user: 0.058
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-316.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-317.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-318.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-319.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-320.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.012
+  user: 0.009
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-321.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.013
+  user: 0.010
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-322.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.030
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-323.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-324.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-325.smt2
+TIMESTAMP: 2025-07-21T21:07:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.931
+  user: 3.916
+  sys:  0.015
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-326.smt2
+TIMESTAMP: 2025-07-21T21:07:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.672
+  user: 3.654
+  sys:  0.015
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-327.smt2
+TIMESTAMP: 2025-07-21T21:07:21+02:00
+OUTPUT: unsat
+TIME:
+  real: 7.305
+  user: 7.280
+  sys:  0.023
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-328.smt2
+TIMESTAMP: 2025-07-21T21:07:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-329.smt2
+TIMESTAMP: 2025-07-21T21:07:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-330.smt2
+TIMESTAMP: 2025-07-21T21:07:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 14.811
+  user: 14.759
+  sys:  0.047
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-331.smt2
+TIMESTAMP: 2025-07-21T21:07:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 28.745
+  user: 28.661
+  sys:  0.079
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-332.smt2
+TIMESTAMP: 2025-07-21T21:08:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 33.753
+  user: 33.676
+  sys:  0.070
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-333.smt2
+TIMESTAMP: 2025-07-21T21:08:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-334.smt2
+TIMESTAMP: 2025-07-21T21:08:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-335.smt2
+TIMESTAMP: 2025-07-21T21:08:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 36.509
+  user: 36.434
+  sys:  0.068
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-336.smt2
+TIMESTAMP: 2025-07-21T21:09:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 59.198
+  user: 59.095
+  sys:  0.094
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-337.smt2
+TIMESTAMP: 2025-07-21T21:10:21+02:00
+OUTPUT: unsat
+TIME:
+  real: 74.266
+  user: 74.082
+  sys:  0.171
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-338.smt2
+TIMESTAMP: 2025-07-21T21:11:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-339.smt2
+TIMESTAMP: 2025-07-21T21:11:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-340.smt2
+TIMESTAMP: 2025-07-21T21:11:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 42.838
+  user: 42.702
+  sys:  0.129
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-341.smt2
+TIMESTAMP: 2025-07-21T21:12:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 108.177
+  user: 107.864
+  sys:  0.294
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-342.smt2
+TIMESTAMP: 2025-07-21T21:14:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 94.647
+  user: 94.373
+  sys:  0.260
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-343.smt2
+TIMESTAMP: 2025-07-21T21:15:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-344.smt2
+TIMESTAMP: 2025-07-21T21:15:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-345.smt2
+TIMESTAMP: 2025-07-21T21:15:41+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.049
+  user: 897.249
+  sys:  2.696
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-346.smt2
+TIMESTAMP: 2025-07-21T21:30:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.002
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-347.smt2
+TIMESTAMP: 2025-07-21T21:30:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 179.831
+  user: 179.220
+  sys:  0.580
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-348.smt2
+TIMESTAMP: 2025-07-21T21:33:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-349.smt2
+TIMESTAMP: 2025-07-21T21:33:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-350.smt2
+TIMESTAMP: 2025-07-21T21:33:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-351.smt2
+TIMESTAMP: 2025-07-21T21:33:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.019
+  user: 0.015
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-352.smt2
+TIMESTAMP: 2025-07-21T21:33:41+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.006
+  user: 897.123
+  sys:  2.798
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-353.smt2
+TIMESTAMP: 2025-07-21T21:48:41+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.031
+  user: 897.349
+  sys:  2.577
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-354.smt2
+TIMESTAMP: 2025-07-21T22:03:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-355.smt2
+TIMESTAMP: 2025-07-21T22:03:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-356.smt2
+TIMESTAMP: 2025-07-21T22:03:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-357.smt2
+TIMESTAMP: 2025-07-21T22:03:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-358.smt2
+TIMESTAMP: 2025-07-21T22:03:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-359.smt2
+TIMESTAMP: 2025-07-21T22:03:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-360.smt2
+TIMESTAMP: 2025-07-21T22:03:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-361.smt2
+TIMESTAMP: 2025-07-21T22:03:41+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.017
+  user: 897.390
+  sys:  2.519
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-362.smt2
+TIMESTAMP: 2025-07-21T22:18:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-363.smt2
+TIMESTAMP: 2025-07-21T22:18:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-364.smt2
+TIMESTAMP: 2025-07-21T22:18:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-365.smt2
+TIMESTAMP: 2025-07-21T22:18:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.010
+  user: 0.006
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-366.smt2
+TIMESTAMP: 2025-07-21T22:18:41+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.027
+  user: 897.061
+  sys:  2.865
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-367.smt2
+TIMESTAMP: 2025-07-21T22:33:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.467
+  user: 0.388
+  sys:  0.072
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-368.smt2
+TIMESTAMP: 2025-07-21T22:33:42+02:00
+OUTPUT: sat
+TIME:
+  real: 766.600
+  user: 764.118
+  sys:  2.346
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-369.smt2
+TIMESTAMP: 2025-07-21T22:46:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-370.smt2
+TIMESTAMP: 2025-07-21T22:46:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-371.smt2
+TIMESTAMP: 2025-07-21T22:46:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-372.smt2
+TIMESTAMP: 2025-07-21T22:46:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-373.smt2
+TIMESTAMP: 2025-07-21T22:46:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-374.smt2
+TIMESTAMP: 2025-07-21T22:46:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-375.smt2
+TIMESTAMP: 2025-07-21T22:46:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-376.smt2
+TIMESTAMP: 2025-07-21T22:46:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-377.smt2
+TIMESTAMP: 2025-07-21T22:46:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-378.smt2
+TIMESTAMP: 2025-07-21T22:46:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-379.smt2
+TIMESTAMP: 2025-07-21T22:46:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 8.813
+  user: 8.779
+  sys:  0.027
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-380.smt2
+TIMESTAMP: 2025-07-21T22:46:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.472
+  user: 1.454
+  sys:  0.015
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-381.smt2
+TIMESTAMP: 2025-07-21T22:46:39+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.677
+  user: 0.669
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-382.smt2
+TIMESTAMP: 2025-07-21T22:46:39+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.323
+  user: 0.317
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-383.smt2
+TIMESTAMP: 2025-07-21T22:46:40+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.847
+  user: 0.839
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-384.smt2
+TIMESTAMP: 2025-07-21T22:46:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.061
+  user: 0.056
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-385.smt2
+TIMESTAMP: 2025-07-21T22:46:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 9.088
+  user: 9.045
+  sys:  0.040
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-386.smt2
+TIMESTAMP: 2025-07-21T22:46:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 30.677
+  user: 30.578
+  sys:  0.093
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-387.smt2
+TIMESTAMP: 2025-07-21T22:47:21+02:00
+OUTPUT: unsat
+TIME:
+  real: 428.295
+  user: 426.988
+  sys:  1.243
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-388.smt2
+TIMESTAMP: 2025-07-21T22:54:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.018
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-389.smt2
+TIMESTAMP: 2025-07-21T22:54:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.084
+  user: 0.080
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-390.smt2
+TIMESTAMP: 2025-07-21T22:54:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 20.774
+  user: 20.707
+  sys:  0.062
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-391.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-392.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-393.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-394.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.011
+  user: 0.008
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-395.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.011
+  user: 0.008
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-396.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.030
+  user: 0.027
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-397.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.057
+  user: 0.054
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-398.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.090
+  user: 0.086
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-399.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.018
+  user: 0.014
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-400.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.265
+  user: 0.258
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-401.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.018
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-402.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.021
+  user: 0.017
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-403.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.063
+  user: 0.059
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-404.smt2
+TIMESTAMP: 2025-07-21T22:54:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 92.495
+  user: 92.176
+  sys:  0.303
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-405.smt2
+TIMESTAMP: 2025-07-21T22:56:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.607
+  user: 0.585
+  sys:  0.019
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-406.smt2
+TIMESTAMP: 2025-07-21T22:56:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.018
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-407.smt2
+TIMESTAMP: 2025-07-21T22:56:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.018
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-408.smt2
+TIMESTAMP: 2025-07-21T22:56:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.017
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-409.smt2
+TIMESTAMP: 2025-07-21T22:56:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 197.965
+  user: 197.369
+  sys:  0.560
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-410.smt2
+TIMESTAMP: 2025-07-21T22:59:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.017
+  user: 0.013
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-411.smt2
+TIMESTAMP: 2025-07-21T22:59:41+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.030
+  user: 897.973
+  sys:  1.939
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-412.smt2
+TIMESTAMP: 2025-07-21T23:14:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-413.smt2
+TIMESTAMP: 2025-07-21T23:14:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.502
+  user: 1.472
+  sys:  0.027
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-414.smt2
+TIMESTAMP: 2025-07-21T23:14:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.100
+  user: 0.086
+  sys:  0.012
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-415.smt2
+TIMESTAMP: 2025-07-21T23:14:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 33.460
+  user: 33.353
+  sys:  0.097
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-416.smt2
+TIMESTAMP: 2025-07-21T23:15:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 8.864
+  user: 8.820
+  sys:  0.042
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-417.smt2
+TIMESTAMP: 2025-07-21T23:15:25+02:00
+OUTPUT: unsat
+TIME:
+  real: 33.642
+  user: 33.549
+  sys:  0.083
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-418.smt2
+TIMESTAMP: 2025-07-21T23:15:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.029
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-419.smt2
+TIMESTAMP: 2025-07-21T23:15:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 5.225
+  user: 5.201
+  sys:  0.022
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-420.smt2
+TIMESTAMP: 2025-07-21T23:16:04+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-421.smt2
+TIMESTAMP: 2025-07-21T23:16:04+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.094
+  user: 0.086
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-422.smt2
+TIMESTAMP: 2025-07-21T23:16:04+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-423.smt2
+TIMESTAMP: 2025-07-21T23:16:05+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.060
+  user: 0.052
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-424.smt2
+TIMESTAMP: 2025-07-21T23:16:05+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.646
+  user: 2.623
+  sys:  0.020
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-425.smt2
+TIMESTAMP: 2025-07-21T23:16:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-426.smt2
+TIMESTAMP: 2025-07-21T23:16:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.029
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-427.smt2
+TIMESTAMP: 2025-07-21T23:16:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.061
+  user: 0.053
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-428.smt2
+TIMESTAMP: 2025-07-21T23:16:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.067
+  user: 0.059
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-429.smt2
+TIMESTAMP: 2025-07-21T23:16:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.931
+  user: 2.906
+  sys:  0.022
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-430.smt2
+TIMESTAMP: 2025-07-21T23:16:10+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.061
+  user: 0.053
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-431.smt2
+TIMESTAMP: 2025-07-21T23:16:10+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.060
+  user: 0.052
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-432.smt2
+TIMESTAMP: 2025-07-21T23:16:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.090
+  user: 0.080
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-433.smt2
+TIMESTAMP: 2025-07-21T23:16:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.063
+  user: 0.054
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-434.smt2
+TIMESTAMP: 2025-07-21T23:16:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.066
+  user: 0.057
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-435.smt2
+TIMESTAMP: 2025-07-21T23:16:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.257
+  user: 0.239
+  sys:  0.016
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-436.smt2
+TIMESTAMP: 2025-07-21T23:16:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.067
+  user: 0.057
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-437.smt2
+TIMESTAMP: 2025-07-21T23:16:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 7.317
+  user: 7.264
+  sys:  0.047
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-438.smt2
+TIMESTAMP: 2025-07-21T23:16:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 6.634
+  user: 6.583
+  sys:  0.046
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-439.smt2
+TIMESTAMP: 2025-07-21T23:16:25+02:00
+OUTPUT: unsat
+TIME:
+  real: 19.312
+  user: 19.224
+  sys:  0.081
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-440.smt2
+TIMESTAMP: 2025-07-21T23:16:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.068
+  user: 0.058
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-441.smt2
+TIMESTAMP: 2025-07-21T23:16:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 7.019
+  user: 6.958
+  sys:  0.056
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-442.smt2
+TIMESTAMP: 2025-07-21T23:16:51+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.469
+  user: 0.446
+  sys:  0.021
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-443.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.066
+  user: 0.056
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-444.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-445.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-446.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-447.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-448.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-449.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-450.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-451.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-452.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-453.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-454.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-455.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-456.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-457.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-458.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-459.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-460.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-461.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-462.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-463.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-464.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.004
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-465.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.004
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-466.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.004
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-467.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.004
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-468.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-469.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-470.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-471.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-472.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-473.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-474.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-475.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-476.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-477.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-478.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-479.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-480.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-481.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-482.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-483.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-484.smt2
+TIMESTAMP: 2025-07-21T23:16:52+02:00
+OUTPUT: sat
+TIME:
+  real: 316.731
+  user: 315.614
+  sys:  1.099
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-485.smt2
+TIMESTAMP: 2025-07-21T23:22:09+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.070
+  user: 0.061
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-486.smt2
+TIMESTAMP: 2025-07-21T23:22:09+02:00
+OUTPUT: unsat
+TIME:
+  real: 17.166
+  user: 17.081
+  sys:  0.080
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-487.smt2
+TIMESTAMP: 2025-07-21T23:22:26+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.027
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-488.smt2
+TIMESTAMP: 2025-07-21T23:22:26+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.027
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-489.smt2
+TIMESTAMP: 2025-07-21T23:22:26+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.747
+  user: 2.718
+  sys:  0.026
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-490.smt2
+TIMESTAMP: 2025-07-21T23:22:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.029
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-491.smt2
+TIMESTAMP: 2025-07-21T23:22:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-492.smt2
+TIMESTAMP: 2025-07-21T23:22:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.075
+  user: 0.066
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-493.smt2
+TIMESTAMP: 2025-07-21T23:22:29+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.976
+  user: 1.952
+  sys:  0.022
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-494.smt2
+TIMESTAMP: 2025-07-21T23:22:31+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.377
+  user: 3.349
+  sys:  0.025
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-495.smt2
+TIMESTAMP: 2025-07-21T23:22:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.271
+  user: 2.250
+  sys:  0.019
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-496.smt2
+TIMESTAMP: 2025-07-21T23:22:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.684
+  user: 3.652
+  sys:  0.029
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-497.smt2
+TIMESTAMP: 2025-07-21T23:22:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-498.smt2
+TIMESTAMP: 2025-07-21T23:22:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-499.smt2
+TIMESTAMP: 2025-07-21T23:22:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.150
+  user: 0.142
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-500.smt2
+TIMESTAMP: 2025-07-21T23:22:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.029
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-501.smt2
+TIMESTAMP: 2025-07-21T23:22:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.029
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-502.smt2
+TIMESTAMP: 2025-07-21T23:22:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 4.346
+  user: 4.310
+  sys:  0.032
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-503.smt2
+TIMESTAMP: 2025-07-21T23:22:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.029
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-504.smt2
+TIMESTAMP: 2025-07-21T23:22:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 9.342
+  user: 9.292
+  sys:  0.047
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-505.smt2
+TIMESTAMP: 2025-07-21T23:22:55+02:00
+OUTPUT: unsat
+TIME:
+  real: 4.508
+  user: 4.472
+  sys:  0.032
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-506.smt2
+TIMESTAMP: 2025-07-21T23:22:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.036
+  user: 0.029
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-507.smt2
+TIMESTAMP: 2025-07-21T23:22:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-508.smt2
+TIMESTAMP: 2025-07-21T23:22:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.006
+  user: 2.974
+  sys:  0.028
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-509.smt2
+TIMESTAMP: 2025-07-21T23:23:02+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.029
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-510.smt2
+TIMESTAMP: 2025-07-21T23:23:02+02:00
+OUTPUT: unsat
+TIME:
+  real: 166.305
+  user: 165.699
+  sys:  0.582
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-511.smt2
+TIMESTAMP: 2025-07-21T23:25:49+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.028
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-512.smt2
+TIMESTAMP: 2025-07-21T23:25:49+02:00
+OUTPUT: unsat
+TIME:
+  real: 7.050
+  user: 7.020
+  sys:  0.026
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-513.smt2
+TIMESTAMP: 2025-07-21T23:25:56+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.041
+  user: 0.035
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-514.smt2
+TIMESTAMP: 2025-07-21T23:25:56+02:00
+OUTPUT: unsat
+TIME:
+  real: 11.324
+  user: 11.280
+  sys:  0.041
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-515.smt2
+TIMESTAMP: 2025-07-21T23:26:07+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.437
+  user: 1.426
+  sys:  0.010
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-516.smt2
+TIMESTAMP: 2025-07-21T23:26:08+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.033
+  user: 2.016
+  sys:  0.015
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-517.smt2
+TIMESTAMP: 2025-07-21T23:26:10+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-518.smt2
+TIMESTAMP: 2025-07-21T23:26:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-519.smt2
+TIMESTAMP: 2025-07-21T23:26:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-520.smt2
+TIMESTAMP: 2025-07-21T23:26:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.026
+  user: 0.023
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-521.smt2
+TIMESTAMP: 2025-07-21T23:26:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.012
+  user: 0.009
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-522.smt2
+TIMESTAMP: 2025-07-21T23:26:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.031
+  user: 0.027
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-523.smt2
+TIMESTAMP: 2025-07-21T23:26:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-524.smt2
+TIMESTAMP: 2025-07-21T23:26:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 5.134
+  user: 5.111
+  sys:  0.021
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-525.smt2
+TIMESTAMP: 2025-07-21T23:26:16+02:00
+OUTPUT: unsat
+TIME:
+  real: 4.929
+  user: 4.909
+  sys:  0.020
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-526.smt2
+TIMESTAMP: 2025-07-21T23:26:21+02:00
+OUTPUT: unsat
+TIME:
+  real: 6.258
+  user: 6.234
+  sys:  0.023
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-527.smt2
+TIMESTAMP: 2025-07-21T23:26:27+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-528.smt2
+TIMESTAMP: 2025-07-21T23:26:27+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-529.smt2
+TIMESTAMP: 2025-07-21T23:26:27+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-530.smt2
+TIMESTAMP: 2025-07-21T23:26:27+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.043
+  user: 0.036
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-531.smt2
+TIMESTAMP: 2025-07-21T23:26:27+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.449
+  user: 0.439
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-532.smt2
+TIMESTAMP: 2025-07-21T23:26:27+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.041
+  user: 0.035
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-533.smt2
+TIMESTAMP: 2025-07-21T23:26:27+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.231
+  user: 2.217
+  sys:  0.013
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-534.smt2
+TIMESTAMP: 2025-07-21T23:26:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.041
+  user: 0.035
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-535.smt2
+TIMESTAMP: 2025-07-21T23:26:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.169
+  user: 0.161
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-536.smt2
+TIMESTAMP: 2025-07-21T23:26:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.045
+  user: 0.038
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-537.smt2
+TIMESTAMP: 2025-07-21T23:26:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.041
+  user: 0.035
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-538.smt2
+TIMESTAMP: 2025-07-21T23:26:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 6.780
+  user: 6.735
+  sys:  0.041
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-539.smt2
+TIMESTAMP: 2025-07-21T23:26:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 4.396
+  user: 4.357
+  sys:  0.036
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-540.smt2
+TIMESTAMP: 2025-07-21T23:26:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.041
+  user: 0.035
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-541.smt2
+TIMESTAMP: 2025-07-21T23:26:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.041
+  user: 0.035
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-542.smt2
+TIMESTAMP: 2025-07-21T23:26:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 5.619
+  user: 5.588
+  sys:  0.027
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-543.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.043
+  user: 0.036
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-544.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-545.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-546.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-547.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-548.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-549.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-550.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-551.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-552.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-553.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-554.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-555.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-556.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-557.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-558.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-559.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-560.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-561.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-562.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-563.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-564.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-565.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-566.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-567.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-568.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-569.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-570.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-571.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-572.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-573.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-574.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-575.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-576.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-577.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-578.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-579.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-580.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-581.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-582.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-583.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-584.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-585.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-586.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-587.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-588.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-589.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-590.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-591.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-592.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-593.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-594.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-595.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-596.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-597.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-598.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-599.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-600.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-601.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-602.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-603.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-604.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-605.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-606.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-607.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-608.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-609.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-610.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-611.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-612.smt2
+TIMESTAMP: 2025-07-21T23:26:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-613.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-614.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-615.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-616.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-617.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-618.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-619.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-620.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-621.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-622.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-623.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-624.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-625.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-FdLibm.scala-626.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Matrix2.scala-0.smt2
+TIMESTAMP: 2025-07-21T23:26:48+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.007
+  user: 897.023
+  sys:  2.884
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Matrix3.scala-0.smt2
+TIMESTAMP: 2025-07-21T23:41:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 26.197
+  user: 25.978
+  sys:  0.209
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Matrix3.scala-1.smt2
+TIMESTAMP: 2025-07-21T23:42:14+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.028
+  user: 897.205
+  sys:  2.723
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Rectangle.scala-0.smt2
+TIMESTAMP: 2025-07-21T23:57:14+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.017
+  user: 0.012
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Rotation.scala-0.smt2
+TIMESTAMP: 2025-07-21T23:57:14+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Rotation.scala-1.smt2
+TIMESTAMP: 2025-07-21T23:57:14+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Rotation.scala-2.smt2
+TIMESTAMP: 2025-07-21T23:57:14+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Rotation.scala-3.smt2
+TIMESTAMP: 2025-07-21T23:57:14+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Rotation.scala-4.smt2
+TIMESTAMP: 2025-07-21T23:57:14+02:00
+OUTPUT: unsat
+TIME:
+  real: 44.316
+  user: 44.120
+  sys:  0.185
+EXIT CODE: 0
+
+
+COMMAND: z3 -T:900 smt-sessions/z3-Rotation.scala-5.smt2
+TIMESTAMP: 2025-07-21T23:57:58+02:00
+OUTPUT: timeout
+TIME:
+  real: 900.070
+  user: 897.469
+  sys:  2.455
+EXIT CODE: 0
+
