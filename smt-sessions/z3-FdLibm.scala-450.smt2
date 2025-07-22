@@ -1,0 +1,40 @@
+; Options: -in -smt2
+(set-option :produce-unsat-assumptions true)
+
+(declare-fun start!2435 () Bool)
+
+(assert start!2435)
+
+(declare-datatypes ((array!993 0))(
+  ( (array!994 (arr!437 (Array (_ BitVec 32) (_ FloatingPoint 11 53))) (size!437 (_ BitVec 32))) )
+))
+(declare-fun qq!34 () array!993)
+
+(assert (=> start!2435 (and (= (size!437 qq!34) #b00000000000000000000000000010100) (fp.leq (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000) (select (arr!437 qq!34) #b00000000000000000000000000000000)) (fp.leq (select (arr!437 qq!34) #b00000000000000000000000000000000) (fp #b0 #b01111111101 #b1111111111111111111111000000000000000000000000000000)) (fp.leq (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000) (select (arr!437 qq!34) #b00000000000000000000000000000001)) (fp.leq (select (arr!437 qq!34) #b00000000000000000000000000000001) (fp #b0 #b01111100110 #b1111111111111111111111100000000000000000000000000000)) (fp.leq (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000) (select (arr!437 qq!34) #b00000000000000000000000000000010)) (fp.leq (select (arr!437 qq!34) #b00000000000000000000000000000010) (fp #b0 #b01111001110 #b1111111111111111111111100000000000000000000000000000)) (bvsge #b00000000000000000000000000000011 (size!437 qq!34)))))
+
+(declare-fun array_inv!386 (array!993) Bool)
+
+(assert (=> start!2435 (array_inv!386 qq!34)))
+
+(declare-fun bs!1871 () Bool)
+
+(assert (= bs!1871 start!2435))
+
+(declare-fun m!17783 () Bool)
+
+(assert (=> bs!1871 m!17783))
+
+(declare-fun m!17785 () Bool)
+
+(assert (=> bs!1871 m!17785))
+
+(declare-fun m!17787 () Bool)
+
+(assert (=> bs!1871 m!17787))
+
+(declare-fun m!17789 () Bool)
+
+(assert (=> bs!1871 m!17789))
+
+(check-sat (not start!2435))
+(check-sat)

@@ -1,0 +1,179 @@
+; Options: -in -smt2
+(set-option :produce-unsat-assumptions true)
+
+(declare-fun start!2155 () Bool)
+
+(assert start!2155)
+
+(declare-fun b!10614 () Bool)
+
+(declare-fun e!6193 () Bool)
+
+(declare-fun e!6195 () Bool)
+
+(assert (=> b!10614 (= e!6193 e!6195)))
+
+(declare-fun res!8467 () Bool)
+
+(assert (=> b!10614 (=> (not res!8467) (not e!6195))))
+
+(declare-fun lt!5471 () (_ BitVec 32))
+
+(assert (=> b!10614 (= res!8467 (bvsge lt!5471 #b00000000000000000000000000000000))))
+
+(declare-fun i!347 () (_ BitVec 32))
+
+(assert (=> b!10614 (= lt!5471 (bvsub i!347 #b00000000000000000000000000000001))))
+
+(declare-datatypes ((tuple2!110 0))(
+  ( (tuple2!111 (_1!262 (_ FloatingPoint 11 53)) (_2!262 (_ FloatingPoint 11 53))) )
+))
+(declare-fun lt!5472 () tuple2!110)
+
+(declare-fun lt!5474 () tuple2!110)
+
+(declare-fun c!23 () (_ FloatingPoint 11 53))
+
+(declare-fun fast2Sum!0 ((_ FloatingPoint 11 53) (_ FloatingPoint 11 53)) tuple2!110)
+
+(assert (=> b!10614 (= lt!5472 (fast2Sum!0 (_1!262 lt!5474) (fp.add roundNearestTiesToEven c!23 (_2!262 lt!5474))))))
+
+(declare-fun b!10615 () Bool)
+
+(declare-fun e!6192 () tuple2!110)
+
+(declare-fun call!38 () tuple2!110)
+
+(assert (=> b!10615 (= e!6192 call!38)))
+
+(declare-fun res!8463 () Bool)
+
+(declare-fun e!6196 () Bool)
+
+(assert (=> start!2155 (=> (not res!8463) (not e!6196))))
+
+(declare-datatypes ((array!816 0))(
+  ( (array!817 (arr!360 (Array (_ BitVec 32) (_ FloatingPoint 11 53))) (size!360 (_ BitVec 32))) )
+))
+(declare-fun fq!120 () array!816)
+
+(assert (=> start!2155 (= res!8463 (= (size!360 fq!120) #b00000000000000000000000000010100))))
+
+(assert (=> start!2155 e!6196))
+
+(assert (=> start!2155 true))
+
+(declare-fun array_inv!309 (array!816) Bool)
+
+(assert (=> start!2155 (array_inv!309 fq!120)))
+
+(declare-fun b!10616 () Bool)
+
+(declare-fun res!8465 () Bool)
+
+(assert (=> b!10616 (=> (not res!8465) (not e!6196))))
+
+(declare-fun fqInv!0 (array!816) Bool)
+
+(assert (=> b!10616 (= res!8465 (fqInv!0 fq!120))))
+
+(declare-fun b!10617 () Bool)
+
+(declare-fun res!8464 () Bool)
+
+(assert (=> b!10617 (=> (not res!8464) (not e!6196))))
+
+(declare-fun s!25 () (_ FloatingPoint 11 53))
+
+(declare-fun jz!77 () (_ BitVec 32))
+
+(assert (=> b!10617 (= res!8464 (and (bvsle #b00000000000000000000000000000000 jz!77) (bvslt jz!77 #b00000000000000000000000000010100) (bvsle #b11111111111111111111111111111111 i!347) (bvsle i!347 (bvsub jz!77 #b00000000000000000000000000000001)) (fp.leq (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000) s!25) (fp.leq s!25 (select (store (store (store (store (store (store (store (store (store (store (store (store (store (store (store (store (store (store (store (store ((as const (Array (_ BitVec 32) (_ FloatingPoint 11 53))) (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000)) #b00000000000000000000000000000000 (fp #b0 #b01111111110 #b1001001000011111101101010100010001000010110100011000)) #b00000000000000000000000000000001 (fp #b0 #b01111101000 #b0001101000100000100011100110000100011010011000100110)) #b00000000000000000000000000001010 (fp #b0 #b01100010001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001011 (fp #b0 #b01011111001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001100 (fp #b0 #b01011100001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001101 (fp #b0 #b01011001001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001110 (fp #b0 #b01010110001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001111 (fp #b0 #b01010011001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000010000 (fp #b0 #b01010000001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000010001 (fp #b0 #b01001101001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000010010 (fp #b0 #b01001010001 #b1011101001010010010101100111111111111111111111100100)) #b00000000000000000000000000010011 (fp #b0 #b01000111001 #b1011101001010010010101001100010110101101101010011000)) #b00000000000000000000000000000010 (fp #b0 #b01111010000 #b1100110001001011101001000110001100110001010001011100)) #b00000000000000000000000000000011 (fp #b0 #b01110111001 #b0100100001001011101001011110000000110111000001110000)) #b00000000000000000000000000000100 (fp #b0 #b01110100001 #b1001101000011011010011111000000000000000000000000000)) #b00000000000000000000000000000101 (fp #b0 #b01110001001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000000110 (fp #b0 #b01101110001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000000111 (fp #b0 #b01101011001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001000 (fp #b0 #b01101000001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001001 (fp #b0 #b01100101001 #b1011101001010010010101101000000000000000000000000000)) (bvadd i!347 #b00000000000000000000000000000001))) (fp.eq (fp.add roundNearestTiesToEven s!25 c!23) s!25) (bvsge i!347 #b00000000000000000000000000000000) (fp.leq s!25 (fp #b0 #b01111111111 #b0000000000000000000000000000000000000000000000000000))))))
+
+(declare-fun b!10618 () Bool)
+
+(assert (=> b!10618 (= e!6192 call!38)))
+
+(declare-fun b!10619 () Bool)
+
+(assert (=> b!10619 (= e!6196 e!6193)))
+
+(declare-fun res!8466 () Bool)
+
+(assert (=> b!10619 (=> (not res!8466) (not e!6193))))
+
+(assert (=> b!10619 (= res!8466 (fp.geq (_1!262 lt!5474) (fp.add roundNearestTiesToEven c!23 (_2!262 lt!5474))))))
+
+(assert (=> b!10619 (= lt!5474 e!6192)))
+
+(declare-fun c!1284 () Bool)
+
+(assert (=> b!10619 (= c!1284 (fp.geq s!25 (select (arr!360 fq!120) i!347)))))
+
+(declare-fun b!10620 () Bool)
+
+(declare-datatypes ((Unit!1236 0))(
+  ( (Unit!1237) )
+))
+(declare-datatypes ((tuple4!214 0))(
+  ( (tuple4!215 (_1!263 Unit!1236) (_2!263 (_ FloatingPoint 11 53)) (_3!207 (_ BitVec 32)) (_4!107 (_ FloatingPoint 11 53))) )
+))
+(declare-fun lt!5473 () tuple4!214)
+
+(assert (=> b!10620 (= e!6195 (and (bvsle #b11111111111111111111111111111111 (_3!207 lt!5473)) (bvsle (_3!207 lt!5473) (bvsub jz!77 #b00000000000000000000000000000001)) (fp.leq (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000) (_2!263 lt!5473)) (let ((ix!269 (bvadd (_3!207 lt!5473) #b00000000000000000000000000000001))) (or (bvslt ix!269 #b00000000000000000000000000000000) (bvsge ix!269 #b00000000000000000000000000010100)))))))
+
+(declare-fun fqCompressionWhile!0 (array!816 (_ BitVec 32) (_ FloatingPoint 11 53) (_ BitVec 32) (_ FloatingPoint 11 53)) tuple4!214)
+
+(assert (=> b!10620 (= lt!5473 (fqCompressionWhile!0 fq!120 jz!77 (_1!262 lt!5472) lt!5471 (_2!262 lt!5472)))))
+
+(declare-fun bm!35 () Bool)
+
+(assert (=> bm!35 (= call!38 (fast2Sum!0 (ite c!1284 s!25 (select (arr!360 fq!120) i!347)) (ite c!1284 (select (arr!360 fq!120) i!347) s!25)))))
+
+(assert (= (and start!2155 res!8463) b!10616))
+
+(assert (= (and b!10616 res!8465) b!10617))
+
+(assert (= (and b!10617 res!8464) b!10619))
+
+(assert (= (and b!10619 c!1284) b!10615))
+
+(assert (= (and b!10619 (not c!1284)) b!10618))
+
+(assert (= (or b!10615 b!10618) bm!35))
+
+(assert (= (and b!10619 res!8466) b!10614))
+
+(assert (= (and b!10614 res!8467) b!10620))
+
+(declare-fun m!15109 () Bool)
+
+(assert (=> b!10620 m!15109))
+
+(declare-fun m!15111 () Bool)
+
+(assert (=> b!10616 m!15111))
+
+(declare-fun m!15113 () Bool)
+
+(assert (=> start!2155 m!15113))
+
+(declare-fun m!15115 () Bool)
+
+(assert (=> b!10619 m!15115))
+
+(declare-fun m!15117 () Bool)
+
+(assert (=> b!10617 m!15117))
+
+(assert (=> bm!35 m!15115))
+
+(declare-fun m!15119 () Bool)
+
+(assert (=> bm!35 m!15119))
+
+(declare-fun m!15121 () Bool)
+
+(assert (=> b!10614 m!15121))
+
+(check-sat (not start!2155) (not b!10614) (not bm!35) (not b!10616) (not b!10620))
+(check-sat)

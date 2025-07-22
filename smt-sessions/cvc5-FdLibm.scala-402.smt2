@@ -1,0 +1,199 @@
+; Options: -q --produce-models --incremental --print-success --lang smt2.6 --arrays-exp
+(set-logic ALL)
+
+(declare-fun start!2337 () Bool)
+
+(assert start!2337)
+
+(declare-fun b!11837 () Bool)
+
+(declare-fun e!6505 () Bool)
+
+(declare-datatypes ((Unit!1295 0))(
+  ( (Unit!1296) )
+))
+(declare-datatypes ((tuple4!212 0))(
+  ( (tuple4!213 (_1!265 Unit!1295) (_2!265 (_ FloatingPoint 11 53)) (_3!206 (_ BitVec 32)) (_4!106 (_ FloatingPoint 11 53))) )
+))
+(declare-fun lt!5749 () tuple4!212)
+
+(declare-fun jz!77 () (_ BitVec 32))
+
+(assert (=> b!11837 (= e!6505 (and (bvsle #b11111111111111111111111111111111 (_3!206 lt!5749)) (bvsle (_3!206 lt!5749) (bvsub jz!77 #b00000000000000000000000000000001)) (fp.leq (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000) (_2!265 lt!5749)) (= (bvand (_3!206 lt!5749) #b10000000000000000000000000000000) #b00000000000000000000000000000000) (not (= (bvand (_3!206 lt!5749) #b10000000000000000000000000000000) (bvand (bvadd (_3!206 lt!5749) #b00000000000000000000000000000001) #b10000000000000000000000000000000)))))))
+
+(declare-datatypes ((array!827 0))(
+  ( (array!828 (arr!359 (Array (_ BitVec 32) (_ FloatingPoint 11 53))) (size!359 (_ BitVec 32))) )
+))
+(declare-fun fq!120 () array!827)
+
+(declare-datatypes ((tuple2!118 0))(
+  ( (tuple2!119 (_1!266 (_ FloatingPoint 11 53)) (_2!266 (_ FloatingPoint 11 53))) )
+))
+(declare-fun lt!5750 () tuple2!118)
+
+(declare-fun lt!5751 () (_ BitVec 32))
+
+(declare-fun fqCompressionWhile!0 (array!827 (_ BitVec 32) (_ FloatingPoint 11 53) (_ BitVec 32) (_ FloatingPoint 11 53)) tuple4!212)
+
+(assert (=> b!11837 (= lt!5749 (fqCompressionWhile!0 fq!120 jz!77 (_1!266 lt!5750) lt!5751 (_2!266 lt!5750)))))
+
+(declare-fun b!11838 () Bool)
+
+(declare-fun e!6508 () tuple2!118)
+
+(declare-fun call!35 () tuple2!118)
+
+(assert (=> b!11838 (= e!6508 call!35)))
+
+(declare-fun res!9538 () Bool)
+
+(declare-fun e!6507 () Bool)
+
+(assert (=> start!2337 (=> (not res!9538) (not e!6507))))
+
+(assert (=> start!2337 (= res!9538 (= (size!359 fq!120) #b00000000000000000000000000010100))))
+
+(assert (=> start!2337 e!6507))
+
+(assert (=> start!2337 true))
+
+(declare-fun array_inv!308 (array!827) Bool)
+
+(assert (=> start!2337 (array_inv!308 fq!120)))
+
+(declare-fun i!347 () (_ BitVec 32))
+
+(declare-fun bm!32 () Bool)
+
+(declare-fun c!1359 () Bool)
+
+(declare-fun s!25 () (_ FloatingPoint 11 53))
+
+(declare-fun fast2Sum!0 ((_ FloatingPoint 11 53) (_ FloatingPoint 11 53)) tuple2!118)
+
+(assert (=> bm!32 (= call!35 (fast2Sum!0 (ite c!1359 s!25 (select (arr!359 fq!120) i!347)) (ite c!1359 (select (arr!359 fq!120) i!347) s!25)))))
+
+(declare-fun b!11839 () Bool)
+
+(declare-fun e!6506 () Bool)
+
+(assert (=> b!11839 (= e!6507 e!6506)))
+
+(declare-fun res!9537 () Bool)
+
+(assert (=> b!11839 (=> (not res!9537) (not e!6506))))
+
+(declare-fun lt!5752 () tuple2!118)
+
+(declare-fun c!23 () (_ FloatingPoint 11 53))
+
+(assert (=> b!11839 (= res!9537 (fp.geq (_1!266 lt!5752) (fp.add roundNearestTiesToEven c!23 (_2!266 lt!5752))))))
+
+(assert (=> b!11839 (= lt!5752 e!6508)))
+
+(assert (=> b!11839 (= c!1359 (fp.geq s!25 (select (arr!359 fq!120) i!347)))))
+
+(declare-fun b!11840 () Bool)
+
+(assert (=> b!11840 (= e!6508 call!35)))
+
+(declare-fun b!11841 () Bool)
+
+(declare-fun res!9539 () Bool)
+
+(assert (=> b!11841 (=> (not res!9539) (not e!6507))))
+
+(assert (=> b!11841 (= res!9539 (and (bvsle #b00000000000000000000000000000000 jz!77) (bvslt jz!77 #b00000000000000000000000000010100) (bvsle #b11111111111111111111111111111111 i!347) (bvsle i!347 (bvsub jz!77 #b00000000000000000000000000000001)) (fp.leq (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000) s!25) (fp.leq s!25 (select (store (store (store (store (store (store (store (store (store (store (store (store (store (store (store (store (store (store (store (store ((as const (Array (_ BitVec 32) (_ FloatingPoint 11 53))) (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000)) #b00000000000000000000000000000000 (fp #b0 #b01111111110 #b1001001000011111101101010100010001000010110100011000)) #b00000000000000000000000000000001 (fp #b0 #b01111101000 #b0001101000100000100011100110000100011010011000100110)) #b00000000000000000000000000001010 (fp #b0 #b01100010001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001011 (fp #b0 #b01011111001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001100 (fp #b0 #b01011100001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001101 (fp #b0 #b01011001001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001110 (fp #b0 #b01010110001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001111 (fp #b0 #b01010011001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000010000 (fp #b0 #b01010000001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000010001 (fp #b0 #b01001101001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000010010 (fp #b0 #b01001010001 #b1011101001010010010101100111111111111111111111100100)) #b00000000000000000000000000010011 (fp #b0 #b01000111001 #b1011101001010010010101001100010110101101101010011000)) #b00000000000000000000000000000010 (fp #b0 #b01111010000 #b1100110001001011101001000110001100110001010001011100)) #b00000000000000000000000000000011 (fp #b0 #b01110111001 #b0100100001001011101001011110000000110111000001110000)) #b00000000000000000000000000000100 (fp #b0 #b01110100001 #b1001101000011011010011111000000000000000000000000000)) #b00000000000000000000000000000101 (fp #b0 #b01110001001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000000110 (fp #b0 #b01101110001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000000111 (fp #b0 #b01101011001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001000 (fp #b0 #b01101000001 #b1011101001010010010101101000000000000000000000000000)) #b00000000000000000000000000001001 (fp #b0 #b01100101001 #b1011101001010010010101101000000000000000000000000000)) (bvadd i!347 #b00000000000000000000000000000001))) (fp.eq (fp.add roundNearestTiesToEven s!25 c!23) s!25) (bvsge i!347 #b00000000000000000000000000000000) (fp.leq s!25 (fp #b0 #b01111111111 #b0000000000000000000000000000000000000000000000000000))))))
+
+(declare-fun b!11842 () Bool)
+
+(declare-fun res!9540 () Bool)
+
+(assert (=> b!11842 (=> (not res!9540) (not e!6507))))
+
+(declare-fun fqInv!0 (array!827) Bool)
+
+(assert (=> b!11842 (= res!9540 (fqInv!0 fq!120))))
+
+(declare-fun b!11843 () Bool)
+
+(assert (=> b!11843 (= e!6506 e!6505)))
+
+(declare-fun res!9536 () Bool)
+
+(assert (=> b!11843 (=> (not res!9536) (not e!6505))))
+
+(assert (=> b!11843 (= res!9536 (bvsge lt!5751 #b00000000000000000000000000000000))))
+
+(assert (=> b!11843 (= lt!5751 (bvsub i!347 #b00000000000000000000000000000001))))
+
+(assert (=> b!11843 (= lt!5750 (fast2Sum!0 (_1!266 lt!5752) (fp.add roundNearestTiesToEven c!23 (_2!266 lt!5752))))))
+
+(assert (= (and start!2337 res!9538) b!11842))
+
+(assert (= (and b!11842 res!9540) b!11841))
+
+(assert (= (and b!11841 res!9539) b!11839))
+
+(assert (= (and b!11839 c!1359) b!11838))
+
+(assert (= (and b!11839 (not c!1359)) b!11840))
+
+(assert (= (or b!11838 b!11840) bm!32))
+
+(assert (= (and b!11839 res!9537) b!11843))
+
+(assert (= (and b!11843 res!9536) b!11837))
+
+(declare-fun m!19765 () Bool)
+
+(assert (=> b!11841 m!19765))
+
+(declare-fun m!19767 () Bool)
+
+(assert (=> b!11843 m!19767))
+
+(declare-fun m!19769 () Bool)
+
+(assert (=> bm!32 m!19769))
+
+(declare-fun m!19771 () Bool)
+
+(assert (=> bm!32 m!19771))
+
+(assert (=> b!11839 m!19769))
+
+(declare-fun m!19773 () Bool)
+
+(assert (=> b!11837 m!19773))
+
+(declare-fun m!19775 () Bool)
+
+(assert (=> start!2337 m!19775))
+
+(declare-fun m!19777 () Bool)
+
+(assert (=> b!11842 m!19777))
+
+(push 1)
+
+(assert (not b!11842))
+
+(assert (not bm!32))
+
+(assert (not b!11843))
+
+(assert (not b!11837))
+
+(assert (not start!2337))
+
+(check-sat)
+
+(pop 1)
+
+(push 1)
+
+(check-sat)
+
+(pop 1)
+

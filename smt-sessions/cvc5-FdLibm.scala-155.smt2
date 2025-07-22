@@ -1,0 +1,96 @@
+; Options: -q --produce-models --incremental --print-success --lang smt2.6 --arrays-exp
+(set-logic ALL)
+
+(declare-fun start!1123 () Bool)
+
+(assert start!1123)
+
+(declare-fun res!4270 () Bool)
+
+(declare-fun e!2711 () Bool)
+
+(assert (=> start!1123 (=> (not res!4270) (not e!2711))))
+
+(declare-fun jz!67 () (_ BitVec 32))
+
+(declare-datatypes ((array!397 0))(
+  ( (array!398 (arr!173 (Array (_ BitVec 32) (_ FloatingPoint 11 53))) (size!173 (_ BitVec 32))) )
+))
+(declare-fun qq!69 () array!397)
+
+(assert (=> start!1123 (= res!4270 (and (bvsle #b00000000000000000000000000000000 jz!67) (bvslt jz!67 #b00000000000000000000000000010100) (= (size!173 qq!69) #b00000000000000000000000000010100)))))
+
+(assert (=> start!1123 e!2711))
+
+(assert (=> start!1123 true))
+
+(declare-fun array_inv!123 (array!397) Bool)
+
+(assert (=> start!1123 (array_inv!123 qq!69)))
+
+(declare-fun b!5409 () Bool)
+
+(declare-fun res!4271 () Bool)
+
+(assert (=> b!5409 (=> (not res!4271) (not e!2711))))
+
+(declare-fun qqInv!0 (array!397) Bool)
+
+(assert (=> b!5409 (= res!4271 (qqInv!0 qq!69))))
+
+(declare-fun b!5410 () Bool)
+
+(assert (=> b!5410 (= e!2711 (and (fp.leq (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000) (select (store ((as const (Array (_ BitVec 32) (_ FloatingPoint 11 53))) (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000)) #b00000000000000000000000000000000 (fp.mul roundNearestTiesToEven (fp #b0 #b01111111111 #b1001001000011111101101000000000000000000000000000000) (select (arr!173 qq!69) #b00000000000000000000000000000000))) #b00000000000000000000000000000000)) (fp.leq (select (store ((as const (Array (_ BitVec 32) (_ FloatingPoint 11 53))) (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000)) #b00000000000000000000000000000000 (fp.mul roundNearestTiesToEven (fp #b0 #b01111111111 #b1001001000011111101101000000000000000000000000000000) (select (arr!173 qq!69) #b00000000000000000000000000000000))) #b00000000000000000000000000000000) (fp #b0 #b01111111110 #b1001001000011111101100001101101111000000100110000000)) (fp.leq (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000) (select (store (store ((as const (Array (_ BitVec 32) (_ FloatingPoint 11 53))) (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000)) #b00000000000000000000000000000000 (fp.mul roundNearestTiesToEven (fp #b0 #b01111111111 #b1001001000011111101101000000000000000000000000000000) (select (arr!173 qq!69) #b00000000000000000000000000000000))) #b00000000000000000000000000000001 (fp.add roundNearestTiesToEven (fp.mul roundNearestTiesToEven (fp #b0 #b01111111111 #b1001001000011111101101000000000000000000000000000000) (select (arr!173 qq!69) #b00000000000000000000000000000001)) (fp.mul roundNearestTiesToEven (fp #b0 #b01111100111 #b0100010001000010110100000000000000000000000000000000) (select (arr!173 qq!69) #b00000000000000000000000000000000)))) #b00000000000000000000000000000001)) (fp.leq (select (store (store ((as const (Array (_ BitVec 32) (_ FloatingPoint 11 53))) (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000)) #b00000000000000000000000000000000 (fp.mul roundNearestTiesToEven (fp #b0 #b01111111111 #b1001001000011111101101000000000000000000000000000000) (select (arr!173 qq!69) #b00000000000000000000000000000000))) #b00000000000000000000000000000001 (fp.add roundNearestTiesToEven (fp.mul roundNearestTiesToEven (fp #b0 #b01111111111 #b1001001000011111101101000000000000000000000000000000) (select (arr!173 qq!69) #b00000000000000000000000000000001)) (fp.mul roundNearestTiesToEven (fp #b0 #b01111100111 #b0100010001000010110100000000000000000000000000000000) (select (arr!173 qq!69) #b00000000000000000000000000000000)))) #b00000000000000000000000000000001) (fp #b0 #b01111101000 #b0001101000100000100011001001010011001110101111100000)) (bvsge #b00000000000000000000000000000000 (size!173 qq!69))))))
+
+(assert (= (and start!1123 res!4270) b!5409))
+
+(assert (= (and b!5409 res!4271) b!5410))
+
+(declare-fun m!8825 () Bool)
+
+(assert (=> start!1123 m!8825))
+
+(declare-fun m!8827 () Bool)
+
+(assert (=> b!5409 m!8827))
+
+(declare-fun m!8829 () Bool)
+
+(assert (=> b!5410 m!8829))
+
+(declare-fun m!8831 () Bool)
+
+(assert (=> b!5410 m!8831))
+
+(declare-fun m!8833 () Bool)
+
+(assert (=> b!5410 m!8833))
+
+(declare-fun m!8835 () Bool)
+
+(assert (=> b!5410 m!8835))
+
+(declare-fun m!8837 () Bool)
+
+(assert (=> b!5410 m!8837))
+
+(declare-fun m!8839 () Bool)
+
+(assert (=> b!5410 m!8839))
+
+(push 1)
+
+(assert (not start!1123))
+
+(assert (not b!5409))
+
+(check-sat)
+
+(pop 1)
+
+(push 1)
+
+(check-sat)
+
+(pop 1)
+
