@@ -117,6 +117,8 @@
 
 (assert (=> b!11023 m!18825))
 
+(assert (=> b!11023 m!18819))
+
 (declare-fun m!18827 () Bool)
 
 (assert (=> b!11023 m!18827))
@@ -125,13 +127,11 @@
 
 (assert (=> b!11023 m!18829))
 
-(assert (=> b!11023 m!18825))
-
 (declare-fun m!18831 () Bool)
 
 (assert (=> b!11023 m!18831))
 
-(assert (=> b!11023 m!18829))
+(assert (=> b!11023 m!18825))
 
 (declare-fun m!18833 () Bool)
 
@@ -209,9 +209,9 @@
 
 (assert (= (and d!6376 (not c!1208)) b!11035))
 
-(assert (=> b!11035 m!18825))
+(assert (=> b!11035 m!18819))
 
-(assert (=> b!11035 m!18825))
+(assert (=> b!11035 m!18819))
 
 (declare-fun m!18837 () Bool)
 
@@ -243,7 +243,7 @@
 
 (assert (= (and d!6378 (not c!1211)) b!11041))
 
-(assert (=> b!11041 m!18829))
+(assert (=> b!11041 m!18825))
 
 (declare-fun m!18839 () Bool)
 

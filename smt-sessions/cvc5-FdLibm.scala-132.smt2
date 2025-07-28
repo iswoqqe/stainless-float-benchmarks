@@ -114,7 +114,7 @@
 
 (assert (=> bs!1504 m!8461))
 
-(assert (=> bs!1504 m!8457))
+(assert (=> bs!1504 m!8453))
 
 (declare-fun m!8463 () Bool)
 
@@ -136,7 +136,7 @@
 
 (assert (=> bs!1504 m!8471))
 
-(assert (=> bs!1504 m!8451))
+(assert (=> bs!1504 m!8459))
 
 (declare-fun m!8473 () Bool)
 

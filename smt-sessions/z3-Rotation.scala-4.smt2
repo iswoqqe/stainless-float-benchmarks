@@ -134,23 +134,23 @@
 
 (assert (=> bs!5 m!7))
 
-(assert (=> bs!5 m!7))
+(assert (=> bs!5 m!3))
+
+(assert (=> bs!5 m!5))
 
 (declare-fun m!9 () Bool)
 
 (assert (=> bs!5 m!9))
 
+(assert (=> bs!5 m!7))
+
 (declare-fun m!11 () Bool)
 
 (assert (=> bs!5 m!11))
 
-(assert (=> bs!5 m!5))
-
 (declare-fun m!13 () Bool)
 
 (assert (=> bs!5 m!13))
-
-(assert (=> bs!5 m!11))
 
 (assert (=> b!9 d!1))
 

@@ -1,83 +1,83 @@
 ; Options: -in -smt2
 (set-option :produce-unsat-assumptions true)
 
-(declare-fun start!2003 () Bool)
+(declare-fun start!2029 () Bool)
 
-(assert start!2003)
+(assert start!2029)
 
-(declare-fun b!10072 () Bool)
+(declare-fun res!8411 () Bool)
 
-(declare-datatypes ((Unit!1200 0))(
-  ( (Unit!1201) )
-))
-(declare-datatypes ((ControlFlow!6 0))(
-  ( (Return!5 (value!401 (_ FloatingPoint 11 53))) (Proceed!5 (value!402 Unit!1200)) )
-))
-(declare-fun e!5824 () ControlFlow!6)
+(declare-fun e!5895 () Bool)
 
-(declare-fun Unit!1202 () Unit!1200)
-
-(assert (=> b!10072 (= e!5824 (Proceed!5 Unit!1202))))
-
-(declare-fun b!10070 () Bool)
-
-(declare-fun e!5823 () Bool)
-
-(declare-fun lt!5247 () ControlFlow!6)
-
-(get-info :version)
-
-(assert (=> b!10070 (= e!5823 (and ((_ is Return!5) lt!5247) (or (not (fp.leq (fp #b1 #b01111111111 #b0000000000000000000000000000000000000000000000000000) (value!401 lt!5247))) (not (fp.leq (value!401 lt!5247) (fp #b0 #b01111111111 #b0000000000000000000000000000000000000000000000000000))))))))
-
-(assert (=> b!10070 (= lt!5247 e!5824)))
-
-(declare-fun c!1205 () Bool)
-
-(declare-fun e!5822 () Bool)
-
-(assert (=> b!10070 (= c!1205 e!5822)))
-
-(declare-fun res!8074 () Bool)
-
-(assert (=> b!10070 (=> (not res!8074) (not e!5822))))
+(assert (=> start!2029 (=> (not res!8411) (not e!5895))))
 
 (declare-fun x!106 () (_ FloatingPoint 11 53))
 
-(declare-fun __HI!0 ((_ FloatingPoint 11 53)) (_ BitVec 32))
-
-(assert (=> b!10070 (= res!8074 (bvslt (bvand (__HI!0 x!106) #b01111111111111111111111111111111) #b00111110010000000000000000000000))))
-
-(declare-fun res!8073 () Bool)
-
-(assert (=> start!2003 (=> (not res!8073) (not e!5823))))
-
 (declare-fun y!16 () (_ FloatingPoint 11 53))
 
-(assert (=> start!2003 (= res!8073 (and (fp.leq (fp #b1 #b01111111110 #b1001001000011111111100101110010010001110100010100111) x!106) (fp.leq x!106 (fp #b0 #b01111111110 #b1001001000011111111100101110010010001110100010100111)) (fp.leq (fp #b1 #b01111001010 #b0000000000000000000000000000000000000000000000000000) y!16) (fp.leq y!16 (fp #b0 #b01111001010 #b0000000000000000000000000000000000000000000000000000))))))
+(assert (=> start!2029 (= res!8411 (and (fp.leq (fp #b1 #b01111111110 #b1001001000011111111100101110010010001110100010100111) x!106) (fp.leq x!106 (fp #b0 #b01111111110 #b1001001000011111111100101110010010001110100010100111)) (fp.leq (fp #b1 #b01111001010 #b0000000000000000000000000000000000000000000000000000) y!16) (fp.leq y!16 (fp #b0 #b01111001010 #b0000000000000000000000000000000000000000000000000000))))))
 
-(assert (=> start!2003 e!5823))
+(assert (=> start!2029 e!5895))
 
-(assert (=> start!2003 true))
+(assert (=> start!2029 true))
 
-(declare-fun b!10071 () Bool)
+(declare-fun b!10439 () Bool)
 
-(assert (=> b!10071 (= e!5824 (Return!5 x!106))))
+(declare-datatypes ((Unit!1215 0))(
+  ( (Unit!1216) )
+))
+(declare-datatypes ((ControlFlow!6 0))(
+  ( (Return!5 (value!401 (_ FloatingPoint 11 53))) (Proceed!5 (value!402 Unit!1215)) )
+))
+(declare-fun e!5894 () ControlFlow!6)
 
-(declare-fun b!10073 () Bool)
+(assert (=> b!10439 (= e!5894 (Return!5 x!106))))
 
-(assert (=> b!10073 (= e!5822 (= (ite (fp.isNaN x!106) #b00000000000000000000000000000000 (ite (fp.gt x!106 ((_ to_fp 11 53) roundTowardZero #b01111111111111111111111111111111)) #b01111111111111111111111111111111 (ite (fp.lt x!106 ((_ to_fp 11 53) roundTowardZero #b10000000000000000000000000000000)) #b10000000000000000000000000000000 ((_ fp.to_sbv 32) roundTowardZero x!106)))) #b00000000000000000000000000000000))))
+(declare-fun b!10438 () Bool)
 
-(assert (= (and start!2003 res!8073) b!10070))
+(declare-fun lt!5319 () ControlFlow!6)
 
-(assert (= (and b!10070 res!8074) b!10073))
+(get-info :version)
 
-(assert (= (and b!10070 c!1205) b!10071))
+(assert (=> b!10438 (= e!5895 (and ((_ is Return!5) lt!5319) (or (not (fp.leq (fp #b1 #b01111111111 #b0000000000000000000000000000000000000000000000000000) (value!401 lt!5319))) (not (fp.leq (value!401 lt!5319) (fp #b0 #b01111111111 #b0000000000000000000000000000000000000000000000000000))))))))
 
-(assert (= (and b!10070 (not c!1205)) b!10072))
+(assert (=> b!10438 (= lt!5319 e!5894)))
 
-(declare-fun m!14417 () Bool)
+(declare-fun c!1220 () Bool)
 
-(assert (=> b!10070 m!14417))
+(declare-fun e!5893 () Bool)
 
-(check-sat (not b!10070))
+(assert (=> b!10438 (= c!1220 e!5893)))
+
+(declare-fun res!8412 () Bool)
+
+(assert (=> b!10438 (=> (not res!8412) (not e!5893))))
+
+(declare-fun __HI!0 ((_ FloatingPoint 11 53)) (_ BitVec 32))
+
+(assert (=> b!10438 (= res!8412 (bvslt (bvand (__HI!0 x!106) #b01111111111111111111111111111111) #b00111110010000000000000000000000))))
+
+(declare-fun b!10441 () Bool)
+
+(assert (=> b!10441 (= e!5893 (= (ite (fp.isNaN x!106) #b00000000000000000000000000000000 (ite (fp.gt x!106 ((_ to_fp 11 53) roundTowardZero #b01111111111111111111111111111111)) #b01111111111111111111111111111111 (ite (fp.lt x!106 ((_ to_fp 11 53) roundTowardZero #b10000000000000000000000000000000)) #b10000000000000000000000000000000 ((_ fp.to_sbv 32) roundTowardZero x!106)))) #b00000000000000000000000000000000))))
+
+(declare-fun b!10440 () Bool)
+
+(declare-fun Unit!1217 () Unit!1215)
+
+(assert (=> b!10440 (= e!5894 (Proceed!5 Unit!1217))))
+
+(assert (= (and start!2029 res!8411) b!10438))
+
+(assert (= (and b!10438 res!8412) b!10441))
+
+(assert (= (and b!10438 c!1220) b!10439))
+
+(assert (= (and b!10438 (not c!1220)) b!10440))
+
+(declare-fun m!16241 () Bool)
+
+(assert (=> b!10438 m!16241))
+
+(check-sat (not b!10438))
 (check-sat)

@@ -137,13 +137,13 @@
 
 (declare-fun m!19747 () Bool)
 
-(assert (=> b!11797 m!19747))
+(assert (=> b!11796 m!19747))
+
+(assert (=> b!11798 m!19741))
 
 (declare-fun m!19749 () Bool)
 
-(assert (=> b!11796 m!19749))
-
-(assert (=> b!11798 m!19741))
+(assert (=> b!11797 m!19749))
 
 (push 1)
 

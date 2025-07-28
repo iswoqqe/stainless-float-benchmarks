@@ -136,13 +136,13 @@
 
 (declare-fun d!11 () Bool)
 
-(assert (=> d!11 (= (abs!0 (fp.sub roundNearestTiesToEven (_1!1 lt!23) (_1!1 vec!4))) (ite (fp.lt (fp.sub roundNearestTiesToEven (_1!1 lt!23) (_1!1 vec!4)) (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000)) (fp.neg (fp.sub roundNearestTiesToEven (_1!1 lt!23) (_1!1 vec!4))) (fp.sub roundNearestTiesToEven (_1!1 lt!23) (_1!1 vec!4))))))
+(assert (=> d!11 (= (rotate!0 (rotate!0 (rotate!0 vec!4))) (tuple2!3 (fp.sub roundNearestTiesToEven (fp.mul roundNearestTiesToEven (_1!1 (rotate!0 (rotate!0 vec!4))) (fp #b0 #b01111001001 #b0001101001100010011000110011000101000101110000000111)) (fp.mul roundNearestTiesToEven (_2!1 (rotate!0 (rotate!0 vec!4))) (fp #b0 #b01111111111 #b0000000000000000000000000000000000000000000000000000))) (fp.add roundNearestTiesToEven (fp.mul roundNearestTiesToEven (_1!1 (rotate!0 (rotate!0 vec!4))) (fp #b0 #b01111111111 #b0000000000000000000000000000000000000000000000000000)) (fp.mul roundNearestTiesToEven (_2!1 (rotate!0 (rotate!0 vec!4))) (fp #b0 #b01111001001 #b0001101001100010011000110011000101000101110000000111)))))))
 
 (assert (=> b!20 d!11))
 
 (declare-fun d!13 () Bool)
 
-(assert (=> d!13 (= (rotate!0 (rotate!0 (rotate!0 vec!4))) (tuple2!3 (fp.sub roundNearestTiesToEven (fp.mul roundNearestTiesToEven (_1!1 (rotate!0 (rotate!0 vec!4))) (fp #b0 #b01111001001 #b0001101001100010011000110011000101000101110000000111)) (fp.mul roundNearestTiesToEven (_2!1 (rotate!0 (rotate!0 vec!4))) (fp #b0 #b01111111111 #b0000000000000000000000000000000000000000000000000000))) (fp.add roundNearestTiesToEven (fp.mul roundNearestTiesToEven (_1!1 (rotate!0 (rotate!0 vec!4))) (fp #b0 #b01111111111 #b0000000000000000000000000000000000000000000000000000)) (fp.mul roundNearestTiesToEven (_2!1 (rotate!0 (rotate!0 vec!4))) (fp #b0 #b01111001001 #b0001101001100010011000110011000101000101110000000111)))))))
+(assert (=> d!13 (= (abs!0 (fp.sub roundNearestTiesToEven (_1!1 lt!23) (_1!1 vec!4))) (ite (fp.lt (fp.sub roundNearestTiesToEven (_1!1 lt!23) (_1!1 vec!4)) (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000)) (fp.neg (fp.sub roundNearestTiesToEven (_1!1 lt!23) (_1!1 vec!4))) (fp.sub roundNearestTiesToEven (_1!1 lt!23) (_1!1 vec!4))))))
 
 (assert (=> b!20 d!13))
 
@@ -164,7 +164,7 @@
 
 (assert (=> b!20 d!19))
 
-(assert (=> b!21 d!11))
+(assert (=> b!21 d!13))
 
 (push 1)
 

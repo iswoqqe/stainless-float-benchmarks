@@ -381,33 +381,33 @@
 
 (declare-fun m!19295 () Bool)
 
-(assert (=> b!11593 m!19295))
-
-(declare-fun m!19297 () Bool)
-
-(assert (=> b!11595 m!19297))
-
-(declare-fun m!19299 () Bool)
-
-(assert (=> d!6518 m!19299))
-
-(declare-fun m!19301 () Bool)
-
-(assert (=> d!6518 m!19301))
-
-(declare-fun m!19303 () Bool)
-
-(assert (=> d!6518 m!19303))
+(assert (=> b!11595 m!19295))
 
 (assert (=> b!11598 m!19251))
 
 (assert (=> b!11594 m!19251))
 
-(assert (=> bm!5 m!19301))
+(declare-fun m!19297 () Bool)
+
+(assert (=> bm!5 m!19297))
+
+(declare-fun m!19299 () Bool)
+
+(assert (=> bm!5 m!19299))
+
+(declare-fun m!19301 () Bool)
+
+(assert (=> d!6518 m!19301))
+
+(assert (=> d!6518 m!19297))
+
+(declare-fun m!19303 () Bool)
+
+(assert (=> d!6518 m!19303))
 
 (declare-fun m!19305 () Bool)
 
-(assert (=> bm!5 m!19305))
+(assert (=> b!11593 m!19305))
 
 (assert (=> b!11567 d!6518))
 

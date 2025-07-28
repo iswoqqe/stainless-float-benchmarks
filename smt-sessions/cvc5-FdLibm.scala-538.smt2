@@ -179,45 +179,45 @@
 
 (declare-fun m!26859 () Bool)
 
-(assert (=> b!16866 m!26859))
+(assert (=> b!16867 m!26859))
 
 (declare-fun m!26861 () Bool)
 
-(assert (=> b!16874 m!26861))
+(assert (=> b!16867 m!26861))
 
 (declare-fun m!26863 () Bool)
 
-(assert (=> b!16868 m!26863))
-
-(assert (=> b!16868 m!26863))
+(assert (=> b!16867 m!26863))
 
 (declare-fun m!26865 () Bool)
 
-(assert (=> b!16868 m!26865))
+(assert (=> start!3037 m!26865))
 
 (declare-fun m!26867 () Bool)
 
-(assert (=> b!16872 m!26867))
+(assert (=> start!3037 m!26867))
 
 (declare-fun m!26869 () Bool)
 
-(assert (=> b!16867 m!26869))
+(assert (=> b!16866 m!26869))
 
-(assert (=> b!16867 m!26863))
+(assert (=> b!16868 m!26861))
+
+(assert (=> b!16868 m!26861))
 
 (declare-fun m!26871 () Bool)
 
-(assert (=> b!16867 m!26871))
+(assert (=> b!16868 m!26871))
 
 (declare-fun m!26873 () Bool)
 
-(assert (=> start!3037 m!26873))
+(assert (=> b!16872 m!26873))
 
 (declare-fun m!26875 () Bool)
 
-(assert (=> start!3037 m!26875))
+(assert (=> b!16874 m!26875))
 
-(assert (=> b!16869 m!26869))
+(assert (=> b!16869 m!26859))
 
 (declare-fun m!26877 () Bool)
 

@@ -142,9 +142,9 @@
 
 (assert (=> bs!1508 m!8583))
 
-(assert (=> bs!1508 m!8577))
+(assert (=> bs!1508 m!8561))
 
-(assert (=> bs!1508 m!8573))
+(assert (=> bs!1508 m!8567))
 
 (declare-fun m!8585 () Bool)
 
@@ -170,9 +170,9 @@
 
 (assert (=> bs!1508 m!8595))
 
-(assert (=> bs!1508 m!8571))
+(assert (=> bs!1508 m!8565))
 
-(assert (=> bs!1508 m!8563))
+(assert (=> bs!1508 m!8571))
 
 (declare-fun m!8597 () Bool)
 

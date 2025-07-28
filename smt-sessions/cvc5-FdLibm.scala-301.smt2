@@ -171,7 +171,7 @@
 
 (declare-fun m!18143 () Bool)
 
-(assert (=> b!10335 m!18143))
+(assert (=> b!10336 m!18143))
 
 (declare-fun m!18145 () Bool)
 
@@ -183,7 +183,7 @@
 
 (declare-fun m!18149 () Bool)
 
-(assert (=> b!10336 m!18149))
+(assert (=> b!10335 m!18149))
 
 (push 1)
 

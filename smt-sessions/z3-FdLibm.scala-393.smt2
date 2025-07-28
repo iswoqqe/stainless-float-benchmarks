@@ -1,42 +1,40 @@
 ; Options: -in -smt2
 (set-option :produce-unsat-assumptions true)
 
-(declare-fun start!2135 () Bool)
+(declare-fun start!2165 () Bool)
 
-(assert start!2135)
+(assert start!2165)
 
-(declare-fun res!8364 () Bool)
+(declare-fun res!8702 () Bool)
 
-(declare-fun e!6096 () Bool)
+(declare-fun e!6170 () Bool)
 
-(assert (=> start!2135 (=> (not res!8364) (not e!6096))))
+(assert (=> start!2165 (=> (not res!8702) (not e!6170))))
 
-(declare-datatypes ((array!796 0))(
-  ( (array!797 (arr!350 (Array (_ BitVec 32) (_ FloatingPoint 11 53))) (size!350 (_ BitVec 32))) )
+(declare-datatypes ((array!799 0))(
+  ( (array!800 (arr!350 (Array (_ BitVec 32) (_ FloatingPoint 11 53))) (size!350 (_ BitVec 32))) )
 ))
-(declare-fun fq!120 () array!796)
+(declare-fun fq!120 () array!799)
 
-(assert (=> start!2135 (= res!8364 (= (size!350 fq!120) #b00000000000000000000000000010100))))
+(assert (=> start!2165 (= res!8702 (= (size!350 fq!120) #b00000000000000000000000000010100))))
 
-(assert (=> start!2135 e!6096))
+(assert (=> start!2165 e!6170))
 
-(declare-fun array_inv!299 (array!796) Bool)
+(declare-fun array_inv!299 (array!799) Bool)
 
-(assert (=> start!2135 (array_inv!299 fq!120)))
+(assert (=> start!2165 (array_inv!299 fq!120)))
 
-(assert (=> start!2135 true))
+(assert (=> start!2165 true))
 
-(declare-fun b!10487 () Bool)
+(declare-fun b!10861 () Bool)
 
-(declare-fun res!8365 () Bool)
+(declare-fun res!8703 () Bool)
 
-(assert (=> b!10487 (=> (not res!8365) (not e!6096))))
+(assert (=> b!10861 (=> (not res!8703) (not e!6170))))
 
-(declare-fun fqInv!0 (array!796) Bool)
+(declare-fun fqInv!0 (array!799) Bool)
 
-(assert (=> b!10487 (= res!8365 (fqInv!0 fq!120))))
-
-(declare-fun b!10488 () Bool)
+(assert (=> b!10861 (= res!8703 (fqInv!0 fq!120))))
 
 (declare-fun i!347 () (_ BitVec 32))
 
@@ -44,19 +42,21 @@
 
 (declare-fun jz!77 () (_ BitVec 32))
 
-(assert (=> b!10488 (= e!6096 (and (bvsle #b00000000000000000000000000000000 jz!77) (bvslt jz!77 #b00000000000000000000000000010100) (bvsle #b11111111111111111111111111111111 i!347) (bvsle i!347 (bvsub jz!77 #b00000000000000000000000000000001)) (fp.leq (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000) s!25) (let ((ix!260 (bvadd i!347 #b00000000000000000000000000000001))) (or (bvslt ix!260 #b00000000000000000000000000000000) (bvsge ix!260 #b00000000000000000000000000010100)))))))
+(declare-fun b!10862 () Bool)
 
-(assert (= (and start!2135 res!8364) b!10487))
+(assert (=> b!10862 (= e!6170 (and (bvsle #b00000000000000000000000000000000 jz!77) (bvslt jz!77 #b00000000000000000000000000010100) (bvsle #b11111111111111111111111111111111 i!347) (bvsle i!347 (bvsub jz!77 #b00000000000000000000000000000001)) (fp.leq (fp #b0 #b00000000000 #b0000000000000000000000000000000000000000000000000000) s!25) (let ((ix!260 (bvadd i!347 #b00000000000000000000000000000001))) (or (bvslt ix!260 #b00000000000000000000000000000000) (bvsge ix!260 #b00000000000000000000000000010100)))))))
 
-(assert (= (and b!10487 res!8365) b!10488))
+(assert (= (and start!2165 res!8702) b!10861))
 
-(declare-fun m!15019 () Bool)
+(assert (= (and b!10861 res!8703) b!10862))
 
-(assert (=> start!2135 m!15019))
+(declare-fun m!16845 () Bool)
 
-(declare-fun m!15021 () Bool)
+(assert (=> start!2165 m!16845))
 
-(assert (=> b!10487 m!15021))
+(declare-fun m!16847 () Bool)
 
-(check-sat (not b!10487) (not start!2135))
+(assert (=> b!10861 m!16847))
+
+(check-sat (not start!2165) (not b!10861))
 (check-sat)

@@ -121,9 +121,13 @@
 
 (assert (=> b!11056 m!18855))
 
+(assert (=> b!11056 m!18847))
+
 (declare-fun m!18857 () Bool)
 
 (assert (=> b!11056 m!18857))
+
+(assert (=> b!11056 m!18855))
 
 (declare-fun m!18859 () Bool)
 
@@ -132,10 +136,6 @@
 (declare-fun m!18861 () Bool)
 
 (assert (=> b!11056 m!18861))
-
-(assert (=> b!11056 m!18855))
-
-(assert (=> b!11056 m!18847))
 
 (push 1)
 

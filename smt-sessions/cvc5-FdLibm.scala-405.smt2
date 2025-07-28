@@ -159,11 +159,11 @@
 
 (declare-fun m!19869 () Bool)
 
-(assert (=> start!2351 m!19869))
+(assert (=> b!11932 m!19869))
 
 (declare-fun m!19871 () Bool)
 
-(assert (=> b!11932 m!19871))
+(assert (=> start!2351 m!19871))
 
 (declare-fun m!19873 () Bool)
 
@@ -475,17 +475,17 @@
 
 (declare-fun m!19921 () Bool)
 
-(assert (=> d!6601 m!19921))
-
-(assert (=> d!6601 m!19917))
+(assert (=> b!11968 m!19921))
 
 (declare-fun m!19923 () Bool)
 
 (assert (=> d!6601 m!19923))
 
+(assert (=> d!6601 m!19917))
+
 (declare-fun m!19925 () Bool)
 
-(assert (=> b!11968 m!19925))
+(assert (=> d!6601 m!19925))
 
 (assert (=> b!11931 d!6601))
 

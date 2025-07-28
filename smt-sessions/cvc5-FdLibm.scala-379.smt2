@@ -289,6 +289,8 @@
 
 (assert (= (and b!11548 res!9323) b!11550))
 
+(assert (=> b!11548 m!19195))
+
 (declare-fun m!19197 () Bool)
 
 (assert (=> d!6509 m!19197))
@@ -300,8 +302,6 @@
 (declare-fun m!19201 () Bool)
 
 (assert (=> d!6509 m!19201))
-
-(assert (=> b!11548 m!19195))
 
 (assert (=> bm!2 m!19199))
 

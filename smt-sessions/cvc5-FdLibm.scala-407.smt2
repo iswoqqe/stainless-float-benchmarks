@@ -139,11 +139,11 @@
 
 (declare-fun m!19947 () Bool)
 
-(assert (=> b!12002 m!19947))
+(assert (=> b!12001 m!19947))
 
 (declare-fun m!19949 () Bool)
 
-(assert (=> b!12001 m!19949))
+(assert (=> b!12002 m!19949))
 
 (push 1)
 

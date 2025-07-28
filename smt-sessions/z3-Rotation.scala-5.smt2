@@ -86,17 +86,17 @@
 
 (assert (=> b!20 m!19))
 
+(assert (=> b!20 m!19))
+
 (declare-fun m!21 () Bool)
 
 (assert (=> b!20 m!21))
-
-(assert (=> b!20 m!19))
 
 (declare-fun m!23 () Bool)
 
 (assert (=> b!20 m!23))
 
-(assert (=> b!21 m!21))
+(assert (=> b!21 m!23))
 
 (declare-fun m!25 () Bool)
 

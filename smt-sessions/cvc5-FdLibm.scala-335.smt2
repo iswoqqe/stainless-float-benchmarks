@@ -117,13 +117,13 @@
 
 (assert (=> b!10990 m!18799))
 
-(declare-fun m!18801 () Bool)
-
-(assert (=> b!10990 m!18801))
-
 (assert (=> b!10990 m!18795))
 
 (assert (=> b!10990 m!18797))
+
+(declare-fun m!18801 () Bool)
+
+(assert (=> b!10990 m!18801))
 
 (declare-fun m!18803 () Bool)
 

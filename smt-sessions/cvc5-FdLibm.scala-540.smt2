@@ -147,11 +147,9 @@
 
 (declare-fun m!26935 () Bool)
 
-(assert (=> b!16971 m!26935))
+(assert (=> b!16974 m!26935))
 
 (declare-fun m!26937 () Bool)
-
-(assert (=> b!16971 m!26937))
 
 (assert (=> b!16971 m!26937))
 
@@ -159,9 +157,11 @@
 
 (assert (=> b!16971 m!26939))
 
+(assert (=> b!16971 m!26939))
+
 (declare-fun m!26941 () Bool)
 
-(assert (=> b!16974 m!26941))
+(assert (=> b!16971 m!26941))
 
 (assert (=> b!16970 m!26933))
 

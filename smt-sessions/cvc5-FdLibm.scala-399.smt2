@@ -131,15 +131,15 @@
 
 (declare-fun m!19733 () Bool)
 
-(assert (=> b!11777 m!19733))
+(assert (=> start!2331 m!19733))
 
 (declare-fun m!19735 () Bool)
 
-(assert (=> start!2331 m!19735))
+(assert (=> b!11780 m!19735))
 
 (declare-fun m!19737 () Bool)
 
-(assert (=> b!11780 m!19737))
+(assert (=> b!11777 m!19737))
 
 (push 1)
 
