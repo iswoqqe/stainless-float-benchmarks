@@ -1,0 +1,6490 @@
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-CartesianPolar.scala-0.smt2
+TIMESTAMP: 2025-07-28T15:41:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.228
+  user: 1.981
+  sys:  0.087
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-CartesianPolar.scala-1.smt2
+TIMESTAMP: 2025-07-28T15:41:38+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.173
+  user: 0.164
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-CartesianPolar.scala-2.smt2
+TIMESTAMP: 2025-07-28T15:41:39+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.057
+  user: 1.967
+  sys:  0.084
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Complex.scala-0.smt2
+TIMESTAMP: 2025-07-28T15:41:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.048
+  user: 0.043
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Complex.scala-1.smt2
+TIMESTAMP: 2025-07-28T15:41:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.031
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Complex.scala-2.smt2
+TIMESTAMP: 2025-07-28T15:41:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.031
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Complex.scala-3.smt2
+TIMESTAMP: 2025-07-28T15:41:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.506
+  user: 0.482
+  sys:  0.019
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Complex.scala-4.smt2
+TIMESTAMP: 2025-07-28T15:41:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 32.932
+  user: 31.413
+  sys:  1.459
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Complex.scala-5.smt2
+TIMESTAMP: 2025-07-28T15:42:14+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.146
+  user: 0.137
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Complex.scala-6.smt2
+TIMESTAMP: 2025-07-28T15:42:14+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.247
+  user: 1.196
+  sys:  0.043
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Complex.scala-7.smt2
+TIMESTAMP: 2025-07-28T15:42:16+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.160
+  user: 0.150
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Complex.scala-8.smt2
+TIMESTAMP: 2025-07-28T15:42:16+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.299
+  user: 0.286
+  sys:  0.011
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-0.smt2
+TIMESTAMP: 2025-07-28T15:42:16+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.017
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-1.smt2
+TIMESTAMP: 2025-07-28T15:42:16+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-2.smt2
+TIMESTAMP: 2025-07-28T15:42:16+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.071
+  user: 0.066
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-3.smt2
+TIMESTAMP: 2025-07-28T15:42:16+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.071
+  user: 0.067
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-4.smt2
+TIMESTAMP: 2025-07-28T15:42:16+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.071
+  user: 0.066
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-5.smt2
+TIMESTAMP: 2025-07-28T15:42:16+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.072
+  user: 0.068
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-6.smt2
+TIMESTAMP: 2025-07-28T15:42:16+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.071
+  user: 0.067
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-7.smt2
+TIMESTAMP: 2025-07-28T15:42:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.071
+  user: 0.067
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-8.smt2
+TIMESTAMP: 2025-07-28T15:42:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.070
+  user: 0.066
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-9.smt2
+TIMESTAMP: 2025-07-28T15:42:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.072
+  user: 0.067
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-10.smt2
+TIMESTAMP: 2025-07-28T15:42:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.025
+  user: 0.022
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-11.smt2
+TIMESTAMP: 2025-07-28T15:42:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.024
+  user: 0.021
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-12.smt2
+TIMESTAMP: 2025-07-28T15:42:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.102
+  user: 0.097
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-13.smt2
+TIMESTAMP: 2025-07-28T15:42:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.101
+  user: 0.096
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-14.smt2
+TIMESTAMP: 2025-07-28T15:42:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.103
+  user: 0.098
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-15.smt2
+TIMESTAMP: 2025-07-28T15:42:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.102
+  user: 0.096
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-16.smt2
+TIMESTAMP: 2025-07-28T15:42:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.017
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-17.smt2
+TIMESTAMP: 2025-07-28T15:42:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-18.smt2
+TIMESTAMP: 2025-07-28T15:42:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.573
+  user: 0.545
+  sys:  0.023
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-19.smt2
+TIMESTAMP: 2025-07-28T15:42:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-20.smt2
+TIMESTAMP: 2025-07-28T15:42:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.070
+  user: 0.066
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-21.smt2
+TIMESTAMP: 2025-07-28T15:42:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.072
+  user: 0.068
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-22.smt2
+TIMESTAMP: 2025-07-28T15:42:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.070
+  user: 0.066
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-23.smt2
+TIMESTAMP: 2025-07-28T15:42:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.074
+  user: 0.069
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-24.smt2
+TIMESTAMP: 2025-07-28T15:42:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.070
+  user: 0.066
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-25.smt2
+TIMESTAMP: 2025-07-28T15:42:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.072
+  user: 0.068
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-26.smt2
+TIMESTAMP: 2025-07-28T15:42:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.070
+  user: 0.066
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-27.smt2
+TIMESTAMP: 2025-07-28T15:42:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.073
+  user: 0.069
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-28.smt2
+TIMESTAMP: 2025-07-28T15:42:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.874
+  user: 0.844
+  sys:  0.025
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-29.smt2
+TIMESTAMP: 2025-07-28T15:42:19+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.030
+  user: 0.026
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-30.smt2
+TIMESTAMP: 2025-07-28T15:42:19+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.103
+  user: 0.098
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-31.smt2
+TIMESTAMP: 2025-07-28T15:42:19+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.103
+  user: 0.098
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-32.smt2
+TIMESTAMP: 2025-07-28T15:42:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.107
+  user: 0.099
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-33.smt2
+TIMESTAMP: 2025-07-28T15:42:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.103
+  user: 0.097
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-34.smt2
+TIMESTAMP: 2025-07-28T15:42:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.028
+  user: 0.025
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-35.smt2
+TIMESTAMP: 2025-07-28T15:42:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.015
+  user: 0.012
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-36.smt2
+TIMESTAMP: 2025-07-28T15:42:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.017
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-37.smt2
+TIMESTAMP: 2025-07-28T15:42:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.018
+  user: 0.015
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-38.smt2
+TIMESTAMP: 2025-07-28T15:42:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.016
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-39.smt2
+TIMESTAMP: 2025-07-28T15:42:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-40.smt2
+TIMESTAMP: 2025-07-28T15:42:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-41.smt2
+TIMESTAMP: 2025-07-28T15:42:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.339
+  user: 2.313
+  sys:  0.024
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-42.smt2
+TIMESTAMP: 2025-07-28T15:42:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.541
+  user: 1.519
+  sys:  0.020
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-43.smt2
+TIMESTAMP: 2025-07-28T15:42:24+02:00
+OUTPUT: unsat
+TIME:
+  real: 6.189
+  user: 6.134
+  sys:  0.050
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-44.smt2
+TIMESTAMP: 2025-07-28T15:42:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.650
+  user: 1.618
+  sys:  0.029
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-45.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.056
+  user: 0.051
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-46.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.161
+  user: 0.154
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-47.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.165
+  user: 0.146
+  sys:  0.011
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-48.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-49.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-50.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.042
+  user: 0.037
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-51.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.025
+  user: 0.021
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-52.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-53.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.012
+  user: 0.009
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-54.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-55.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.061
+  user: 0.057
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-56.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.062
+  user: 0.057
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-57.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-58.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.027
+  user: 0.023
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-59.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.088
+  user: 0.081
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-60.smt2
+TIMESTAMP: 2025-07-28T15:42:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.181
+  user: 0.173
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-61.smt2
+TIMESTAMP: 2025-07-28T15:42:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-62.smt2
+TIMESTAMP: 2025-07-28T15:42:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.362
+  user: 0.344
+  sys:  0.016
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-63.smt2
+TIMESTAMP: 2025-07-28T15:42:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.046
+  user: 0.042
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-64.smt2
+TIMESTAMP: 2025-07-28T15:42:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 59.944
+  user: 58.826
+  sys:  1.043
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-65.smt2
+TIMESTAMP: 2025-07-28T15:43:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.047
+  user: 0.043
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-66.smt2
+TIMESTAMP: 2025-07-28T15:43:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.324
+  user: 1.285
+  sys:  0.035
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-67.smt2
+TIMESTAMP: 2025-07-28T15:43:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 79.162
+  user: 77.404
+  sys:  1.644
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-68.smt2
+TIMESTAMP: 2025-07-28T15:44:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.124
+  user: 0.115
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-69.smt2
+TIMESTAMP: 2025-07-28T15:44:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.184
+  user: 0.174
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-70.smt2
+TIMESTAMP: 2025-07-28T15:44:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-71.smt2
+TIMESTAMP: 2025-07-28T15:44:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-72.smt2
+TIMESTAMP: 2025-07-28T15:44:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.108
+  user: 0.101
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-73.smt2
+TIMESTAMP: 2025-07-28T15:44:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.317
+  user: 0.306
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-74.smt2
+TIMESTAMP: 2025-07-28T15:44:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.175
+  user: 0.165
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-75.smt2
+TIMESTAMP: 2025-07-28T15:44:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.057
+  user: 0.052
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-76.smt2
+TIMESTAMP: 2025-07-28T15:44:55+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.666
+  user: 0.643
+  sys:  0.019
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-77.smt2
+TIMESTAMP: 2025-07-28T15:44:55+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.062
+  user: 0.056
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-78.smt2
+TIMESTAMP: 2025-07-28T15:44:55+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.067
+  user: 0.062
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-79.smt2
+TIMESTAMP: 2025-07-28T15:44:55+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.062
+  user: 0.057
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-80.smt2
+TIMESTAMP: 2025-07-28T15:44:55+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.077
+  user: 0.071
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-81.smt2
+TIMESTAMP: 2025-07-28T15:44:55+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.060
+  user: 0.054
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-82.smt2
+TIMESTAMP: 2025-07-28T15:44:56+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.061
+  user: 0.056
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-83.smt2
+TIMESTAMP: 2025-07-28T15:44:56+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.067
+  user: 0.062
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-84.smt2
+TIMESTAMP: 2025-07-28T15:44:56+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.057
+  user: 0.052
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-85.smt2
+TIMESTAMP: 2025-07-28T15:44:56+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.059
+  user: 0.054
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-86.smt2
+TIMESTAMP: 2025-07-28T15:44:56+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.183
+  user: 0.173
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-87.smt2
+TIMESTAMP: 2025-07-28T15:44:56+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.192
+  user: 0.183
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-88.smt2
+TIMESTAMP: 2025-07-28T15:44:56+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.186
+  user: 0.176
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-89.smt2
+TIMESTAMP: 2025-07-28T15:44:56+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.062
+  user: 0.058
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-90.smt2
+TIMESTAMP: 2025-07-28T15:44:56+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.178
+  user: 0.169
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-91.smt2
+TIMESTAMP: 2025-07-28T15:44:57+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.059
+  user: 0.054
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-92.smt2
+TIMESTAMP: 2025-07-28T15:44:57+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.419
+  user: 3.323
+  sys:  0.093
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-93.smt2
+TIMESTAMP: 2025-07-28T15:45:00+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.061
+  user: 0.056
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-94.smt2
+TIMESTAMP: 2025-07-28T15:45:00+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.389
+  user: 1.347
+  sys:  0.038
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-95.smt2
+TIMESTAMP: 2025-07-28T15:45:02+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.064
+  user: 0.059
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-96.smt2
+TIMESTAMP: 2025-07-28T15:45:02+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.177
+  user: 0.168
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-97.smt2
+TIMESTAMP: 2025-07-28T15:45:02+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.025
+  user: 0.022
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-98.smt2
+TIMESTAMP: 2025-07-28T15:45:02+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.062
+  user: 0.058
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-99.smt2
+TIMESTAMP: 2025-07-28T15:45:02+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.510
+  user: 1.461
+  sys:  0.044
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-100.smt2
+TIMESTAMP: 2025-07-28T15:45:03+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.522
+  user: 0.504
+  sys:  0.015
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-101.smt2
+TIMESTAMP: 2025-07-28T15:45:04+02:00
+OUTPUT: unsat
+TIME:
+  real: 11.404
+  user: 11.127
+  sys:  0.274
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-102.smt2
+TIMESTAMP: 2025-07-28T15:45:15+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.046
+  user: 0.042
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-103.smt2
+TIMESTAMP: 2025-07-28T15:45:15+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.668
+  user: 1.626
+  sys:  0.037
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-104.smt2
+TIMESTAMP: 2025-07-28T15:45:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.058
+  user: 0.052
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-105.smt2
+TIMESTAMP: 2025-07-28T15:45:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.058
+  user: 0.054
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-106.smt2
+TIMESTAMP: 2025-07-28T15:45:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.164
+  user: 0.156
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-107.smt2
+TIMESTAMP: 2025-07-28T15:45:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.064
+  user: 0.060
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-108.smt2
+TIMESTAMP: 2025-07-28T15:45:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.063
+  user: 0.058
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-109.smt2
+TIMESTAMP: 2025-07-28T15:45:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.066
+  user: 0.061
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-110.smt2
+TIMESTAMP: 2025-07-28T15:45:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.172
+  user: 0.163
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-111.smt2
+TIMESTAMP: 2025-07-28T15:45:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.160
+  user: 0.152
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-112.smt2
+TIMESTAMP: 2025-07-28T15:45:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.168
+  user: 0.156
+  sys:  0.010
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-113.smt2
+TIMESTAMP: 2025-07-28T15:45:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.167
+  user: 0.157
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-114.smt2
+TIMESTAMP: 2025-07-28T15:45:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.064
+  user: 0.060
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-115.smt2
+TIMESTAMP: 2025-07-28T15:45:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.058
+  user: 0.054
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-116.smt2
+TIMESTAMP: 2025-07-28T15:45:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.070
+  user: 0.065
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-117.smt2
+TIMESTAMP: 2025-07-28T15:45:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.066
+  user: 0.060
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-118.smt2
+TIMESTAMP: 2025-07-28T15:45:18+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.066
+  user: 0.061
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-119.smt2
+TIMESTAMP: 2025-07-28T15:45:19+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.183
+  user: 0.174
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-120.smt2
+TIMESTAMP: 2025-07-28T15:45:19+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.067
+  user: 0.062
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-121.smt2
+TIMESTAMP: 2025-07-28T15:45:19+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.198
+  user: 0.188
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-122.smt2
+TIMESTAMP: 2025-07-28T15:45:19+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.182
+  user: 0.173
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-123.smt2
+TIMESTAMP: 2025-07-28T15:45:19+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.066
+  user: 0.060
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-124.smt2
+TIMESTAMP: 2025-07-28T15:45:19+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.066
+  user: 0.061
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-125.smt2
+TIMESTAMP: 2025-07-28T15:45:19+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.168
+  user: 0.159
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-126.smt2
+TIMESTAMP: 2025-07-28T15:45:19+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.061
+  user: 0.055
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-127.smt2
+TIMESTAMP: 2025-07-28T15:45:20+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.908
+  user: 2.807
+  sys:  0.092
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-128.smt2
+TIMESTAMP: 2025-07-28T15:45:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.025
+  user: 0.022
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-129.smt2
+TIMESTAMP: 2025-07-28T15:45:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.550
+  user: 0.529
+  sys:  0.018
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-130.smt2
+TIMESTAMP: 2025-07-28T15:45:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.010
+  user: 0.007
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-131.smt2
+TIMESTAMP: 2025-07-28T15:45:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.131
+  user: 0.123
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-132.smt2
+TIMESTAMP: 2025-07-28T15:45:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.304
+  user: 1.278
+  sys:  0.024
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-133.smt2
+TIMESTAMP: 2025-07-28T15:45:24+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.389
+  user: 2.332
+  sys:  0.053
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-134.smt2
+TIMESTAMP: 2025-07-28T15:45:27+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.109
+  user: 3.019
+  sys:  0.083
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-135.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-136.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-137.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-138.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-139.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-140.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-141.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-142.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-143.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-144.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-145.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-146.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-147.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-148.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-149.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-150.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-151.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-152.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-153.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-154.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-155.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-156.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-157.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-158.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-159.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-160.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-161.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-162.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-163.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-164.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-165.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-166.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-167.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-168.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-169.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-170.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-171.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-172.smt2
+TIMESTAMP: 2025-07-28T15:45:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.632
+  user: 1.573
+  sys:  0.053
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-173.smt2
+TIMESTAMP: 2025-07-28T15:45:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 11.292
+  user: 10.978
+  sys:  0.308
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-174.smt2
+TIMESTAMP: 2025-07-28T15:45:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.018
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-175.smt2
+TIMESTAMP: 2025-07-28T15:45:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.549
+  user: 3.473
+  sys:  0.068
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-176.smt2
+TIMESTAMP: 2025-07-28T15:45:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 6.116
+  user: 5.990
+  sys:  0.116
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-177.smt2
+TIMESTAMP: 2025-07-28T15:45:53+02:00
+OUTPUT: unsat
+TIME:
+  real: 10.466
+  user: 10.215
+  sys:  0.248
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-178.smt2
+TIMESTAMP: 2025-07-28T15:46:03+02:00
+OUTPUT: unsat
+TIME:
+  real: 15.875
+  user: 15.743
+  sys:  0.115
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-179.smt2
+TIMESTAMP: 2025-07-28T15:46:19+02:00
+OUTPUT: unsat
+TIME:
+  real: 16.254
+  user: 16.094
+  sys:  0.153
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-180.smt2
+TIMESTAMP: 2025-07-28T15:46:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 62.974
+  user: 61.630
+  sys:  1.315
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-181.smt2
+TIMESTAMP: 2025-07-28T15:47:38+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.354
+  user: 0.336
+  sys:  0.015
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-182.smt2
+TIMESTAMP: 2025-07-28T15:47:39+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.351
+  user: 0.334
+  sys:  0.015
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-183.smt2
+TIMESTAMP: 2025-07-28T15:47:39+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-184.smt2
+TIMESTAMP: 2025-07-28T15:47:39+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-185.smt2
+TIMESTAMP: 2025-07-28T15:47:39+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.365
+  user: 0.343
+  sys:  0.018
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-186.smt2
+TIMESTAMP: 2025-07-28T15:47:40+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.357
+  user: 0.337
+  sys:  0.017
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-187.smt2
+TIMESTAMP: 2025-07-28T15:47:40+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-188.smt2
+TIMESTAMP: 2025-07-28T15:47:40+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.354
+  user: 0.335
+  sys:  0.016
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-189.smt2
+TIMESTAMP: 2025-07-28T15:47:40+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.354
+  user: 0.334
+  sys:  0.020
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-190.smt2
+TIMESTAMP: 2025-07-28T15:47:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-191.smt2
+TIMESTAMP: 2025-07-28T15:47:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.355
+  user: 0.334
+  sys:  0.020
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-192.smt2
+TIMESTAMP: 2025-07-28T15:47:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.351
+  user: 0.332
+  sys:  0.016
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-193.smt2
+TIMESTAMP: 2025-07-28T15:47:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-194.smt2
+TIMESTAMP: 2025-07-28T15:47:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.350
+  user: 0.332
+  sys:  0.016
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-195.smt2
+TIMESTAMP: 2025-07-28T15:47:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.354
+  user: 0.335
+  sys:  0.016
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-196.smt2
+TIMESTAMP: 2025-07-28T15:47:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.009
+  user: 0.005
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-197.smt2
+TIMESTAMP: 2025-07-28T15:47:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.354
+  user: 0.334
+  sys:  0.019
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-198.smt2
+TIMESTAMP: 2025-07-28T15:47:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.009
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-199.smt2
+TIMESTAMP: 2025-07-28T15:47:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-200.smt2
+TIMESTAMP: 2025-07-28T15:47:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.385
+  user: 0.365
+  sys:  0.019
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-201.smt2
+TIMESTAMP: 2025-07-28T15:47:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.454
+  user: 0.432
+  sys:  0.018
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-202.smt2
+TIMESTAMP: 2025-07-28T15:47:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.005
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-203.smt2
+TIMESTAMP: 2025-07-28T15:47:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.459
+  user: 0.433
+  sys:  0.021
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-204.smt2
+TIMESTAMP: 2025-07-28T15:47:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.530
+  user: 0.504
+  sys:  0.022
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-205.smt2
+TIMESTAMP: 2025-07-28T15:47:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-206.smt2
+TIMESTAMP: 2025-07-28T15:47:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.556
+  user: 0.524
+  sys:  0.027
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-207.smt2
+TIMESTAMP: 2025-07-28T15:47:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.600
+  user: 0.571
+  sys:  0.024
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-208.smt2
+TIMESTAMP: 2025-07-28T15:47:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.005
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-209.smt2
+TIMESTAMP: 2025-07-28T15:47:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.638
+  user: 0.596
+  sys:  0.032
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-210.smt2
+TIMESTAMP: 2025-07-28T15:47:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.728
+  user: 0.696
+  sys:  0.028
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-211.smt2
+TIMESTAMP: 2025-07-28T15:47:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.006
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-212.smt2
+TIMESTAMP: 2025-07-28T15:47:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.739
+  user: 0.707
+  sys:  0.030
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-213.smt2
+TIMESTAMP: 2025-07-28T15:47:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.855
+  user: 0.815
+  sys:  0.034
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-214.smt2
+TIMESTAMP: 2025-07-28T15:47:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.841
+  user: 0.799
+  sys:  0.039
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-215.smt2
+TIMESTAMP: 2025-07-28T15:47:49+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.815
+  user: 0.778
+  sys:  0.036
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-216.smt2
+TIMESTAMP: 2025-07-28T15:47:50+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.878
+  user: 0.836
+  sys:  0.038
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-217.smt2
+TIMESTAMP: 2025-07-28T15:47:51+02:00
+OUTPUT: unsat
+TIME:
+  real: 8.047
+  user: 7.868
+  sys:  0.168
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-218.smt2
+TIMESTAMP: 2025-07-28T15:47:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 6.002
+  user: 5.852
+  sys:  0.146
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-219.smt2
+TIMESTAMP: 2025-07-28T15:48:05+02:00
+OUTPUT: unsat
+TIME:
+  real: 11.428
+  user: 11.060
+  sys:  0.346
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-220.smt2
+TIMESTAMP: 2025-07-28T15:48:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.016
+  user: 0.012
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-221.smt2
+TIMESTAMP: 2025-07-28T15:48:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.092
+  user: 0.084
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-222.smt2
+TIMESTAMP: 2025-07-28T15:48:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-223.smt2
+TIMESTAMP: 2025-07-28T15:48:17+02:00
+OUTPUT: unsat
+TIME:
+  real: 6.258
+  user: 6.149
+  sys:  0.099
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-224.smt2
+TIMESTAMP: 2025-07-28T15:48:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-225.smt2
+TIMESTAMP: 2025-07-28T15:48:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.038
+  user: 0.035
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-226.smt2
+TIMESTAMP: 2025-07-28T15:48:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.018
+  user: 0.015
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-227.smt2
+TIMESTAMP: 2025-07-28T15:48:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.016
+  user: 0.013
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-228.smt2
+TIMESTAMP: 2025-07-28T15:48:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.031
+  user: 0.027
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-229.smt2
+TIMESTAMP: 2025-07-28T15:48:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.051
+  user: 0.047
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-230.smt2
+TIMESTAMP: 2025-07-28T15:48:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.032
+  user: 0.029
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-231.smt2
+TIMESTAMP: 2025-07-28T15:48:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-232.smt2
+TIMESTAMP: 2025-07-28T15:48:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.031
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-233.smt2
+TIMESTAMP: 2025-07-28T15:48:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-234.smt2
+TIMESTAMP: 2025-07-28T15:48:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.136
+  user: 0.128
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-235.smt2
+TIMESTAMP: 2025-07-28T15:48:23+02:00
+OUTPUT: unsat
+TIME:
+  real: 4.287
+  user: 4.161
+  sys:  0.118
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-236.smt2
+TIMESTAMP: 2025-07-28T15:48:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.030
+  user: 0.026
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-237.smt2
+TIMESTAMP: 2025-07-28T15:48:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.291
+  user: 2.237
+  sys:  0.048
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-238.smt2
+TIMESTAMP: 2025-07-28T15:48:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.275
+  user: 3.215
+  sys:  0.057
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-239.smt2
+TIMESTAMP: 2025-07-28T15:48:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.585
+  user: 2.525
+  sys:  0.054
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-240.smt2
+TIMESTAMP: 2025-07-28T15:48:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.593
+  user: 2.534
+  sys:  0.052
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-241.smt2
+TIMESTAMP: 2025-07-28T15:48:38+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.634
+  user: 3.571
+  sys:  0.059
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-242.smt2
+TIMESTAMP: 2025-07-28T15:48:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 15.853
+  user: 15.492
+  sys:  0.350
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-243.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.029
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-244.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.030
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-245.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.031
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-246.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.037
+  user: 0.033
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-247.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.030
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-248.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.031
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-249.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.031
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-250.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.031
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-251.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.053
+  user: 0.048
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-252.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.051
+  user: 0.046
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-253.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.053
+  user: 0.048
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-254.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.051
+  user: 0.047
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-255.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.053
+  user: 0.048
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-256.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.051
+  user: 0.046
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-257.smt2
+TIMESTAMP: 2025-07-28T15:48:58+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.053
+  user: 0.048
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-258.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.051
+  user: 0.047
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-259.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.054
+  user: 0.049
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-260.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.050
+  user: 0.046
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-261.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.052
+  user: 0.048
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-262.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.036
+  user: 0.031
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-263.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.054
+  user: 0.049
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-264.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.039
+  user: 0.035
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-265.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.060
+  user: 0.055
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-266.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.042
+  user: 0.038
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-267.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.065
+  user: 0.060
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-268.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.046
+  user: 0.041
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-269.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.071
+  user: 0.066
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-270.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.074
+  user: 0.068
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-271.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.082
+  user: 0.077
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-272.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.075
+  user: 0.070
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-273.smt2
+TIMESTAMP: 2025-07-28T15:48:59+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.083
+  user: 0.077
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-274.smt2
+TIMESTAMP: 2025-07-28T15:49:00+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.077
+  user: 0.072
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-275.smt2
+TIMESTAMP: 2025-07-28T15:49:00+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.914
+  user: 0.875
+  sys:  0.032
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-276.smt2
+TIMESTAMP: 2025-07-28T15:49:01+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.088
+  user: 2.019
+  sys:  0.062
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-277.smt2
+TIMESTAMP: 2025-07-28T15:49:03+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.075
+  user: 0.070
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-278.smt2
+TIMESTAMP: 2025-07-28T15:49:03+02:00
+OUTPUT: unsat
+TIME:
+  real: 3.612
+  user: 3.489
+  sys:  0.116
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-279.smt2
+TIMESTAMP: 2025-07-28T15:49:06+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.029
+  user: 0.026
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-280.smt2
+TIMESTAMP: 2025-07-28T15:49:06+02:00
+OUTPUT: unsat
+TIME:
+  real: 98.864
+  user: 97.666
+  sys:  1.169
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-281.smt2
+TIMESTAMP: 2025-07-28T15:50:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-282.smt2
+TIMESTAMP: 2025-07-28T15:50:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.036
+  user: 0.031
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-283.smt2
+TIMESTAMP: 2025-07-28T15:50:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.031
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-284.smt2
+TIMESTAMP: 2025-07-28T15:50:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.031
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-285.smt2
+TIMESTAMP: 2025-07-28T15:50:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.030
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-286.smt2
+TIMESTAMP: 2025-07-28T15:50:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.029
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-287.smt2
+TIMESTAMP: 2025-07-28T15:50:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.030
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-288.smt2
+TIMESTAMP: 2025-07-28T15:50:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.067
+  user: 0.062
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-289.smt2
+TIMESTAMP: 2025-07-28T15:50:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.037
+  user: 0.032
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-290.smt2
+TIMESTAMP: 2025-07-28T15:50:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.038
+  user: 0.034
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-291.smt2
+TIMESTAMP: 2025-07-28T15:50:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.037
+  user: 0.033
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-292.smt2
+TIMESTAMP: 2025-07-28T15:50:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.031
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-293.smt2
+TIMESTAMP: 2025-07-28T15:50:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.082
+  user: 0.078
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-294.smt2
+TIMESTAMP: 2025-07-28T15:50:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.038
+  user: 0.034
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-295.smt2
+TIMESTAMP: 2025-07-28T15:50:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.035
+  user: 0.031
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-296.smt2
+TIMESTAMP: 2025-07-28T15:50:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.030
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-297.smt2
+TIMESTAMP: 2025-07-28T15:50:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.038
+  user: 0.034
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-298.smt2
+TIMESTAMP: 2025-07-28T15:50:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.044
+  user: 0.039
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-299.smt2
+TIMESTAMP: 2025-07-28T15:50:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.046
+  user: 0.041
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-300.smt2
+TIMESTAMP: 2025-07-28T15:50:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.046
+  user: 0.040
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-301.smt2
+TIMESTAMP: 2025-07-28T15:50:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 116.030
+  user: 115.030
+  sys:  0.930
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-302.smt2
+TIMESTAMP: 2025-07-28T15:52:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 118.362
+  user: 117.328
+  sys:  0.943
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-303.smt2
+TIMESTAMP: 2025-07-28T15:54:40+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.037
+  user: 0.031
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-304.smt2
+TIMESTAMP: 2025-07-28T15:54:40+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.030
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-305.smt2
+TIMESTAMP: 2025-07-28T15:54:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.049
+  user: 0.043
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-306.smt2
+TIMESTAMP: 2025-07-28T15:54:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 54.283
+  user: 53.394
+  sys:  0.862
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-307.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-308.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.017
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-309.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.043
+  user: 0.039
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-310.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-311.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-312.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.010
+  user: 0.007
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-313.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-314.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-315.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.043
+  user: 0.039
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-316.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-317.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-318.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.012
+  user: 0.009
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-319.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.044
+  user: 0.040
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-320.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.059
+  user: 0.054
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-321.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.064
+  user: 0.060
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-322.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.090
+  user: 0.085
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-323.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.013
+  user: 0.011
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-324.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.013
+  user: 0.011
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-325.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.105
+  user: 0.097
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-326.smt2
+TIMESTAMP: 2025-07-28T15:55:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.146
+  user: 0.138
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-327.smt2
+TIMESTAMP: 2025-07-28T15:55:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.697
+  user: 0.682
+  sys:  0.012
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-328.smt2
+TIMESTAMP: 2025-07-28T15:55:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.013
+  user: 0.011
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-329.smt2
+TIMESTAMP: 2025-07-28T15:55:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.013
+  user: 0.011
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-330.smt2
+TIMESTAMP: 2025-07-28T15:55:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.147
+  user: 0.138
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-331.smt2
+TIMESTAMP: 2025-07-28T15:55:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.255
+  user: 0.244
+  sys:  0.011
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-332.smt2
+TIMESTAMP: 2025-07-28T15:55:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.370
+  user: 1.339
+  sys:  0.028
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-333.smt2
+TIMESTAMP: 2025-07-28T15:55:38+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.014
+  user: 0.011
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-334.smt2
+TIMESTAMP: 2025-07-28T15:55:38+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.013
+  user: 0.011
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-335.smt2
+TIMESTAMP: 2025-07-28T15:55:38+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.180
+  user: 0.171
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-336.smt2
+TIMESTAMP: 2025-07-28T15:55:38+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.252
+  user: 2.200
+  sys:  0.048
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-337.smt2
+TIMESTAMP: 2025-07-28T15:55:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.862
+  user: 1.813
+  sys:  0.046
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-338.smt2
+TIMESTAMP: 2025-07-28T15:55:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.015
+  user: 0.011
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-339.smt2
+TIMESTAMP: 2025-07-28T15:55:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.014
+  user: 0.011
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-340.smt2
+TIMESTAMP: 2025-07-28T15:55:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.252
+  user: 0.238
+  sys:  0.013
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-341.smt2
+TIMESTAMP: 2025-07-28T15:55:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.233
+  user: 2.166
+  sys:  0.062
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-342.smt2
+TIMESTAMP: 2025-07-28T15:55:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.945
+  user: 2.853
+  sys:  0.087
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-343.smt2
+TIMESTAMP: 2025-07-28T15:55:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.015
+  user: 0.011
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-344.smt2
+TIMESTAMP: 2025-07-28T15:55:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.015
+  user: 0.011
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-345.smt2
+TIMESTAMP: 2025-07-28T15:55:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 5.860
+  user: 5.734
+  sys:  0.117
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-346.smt2
+TIMESTAMP: 2025-07-28T15:55:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-347.smt2
+TIMESTAMP: 2025-07-28T15:55:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 17.874
+  user: 17.724
+  sys:  0.140
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-348.smt2
+TIMESTAMP: 2025-07-28T15:56:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.014
+  user: 0.011
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-349.smt2
+TIMESTAMP: 2025-07-28T15:56:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.015
+  user: 0.012
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-350.smt2
+TIMESTAMP: 2025-07-28T15:56:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.014
+  user: 0.012
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-351.smt2
+TIMESTAMP: 2025-07-28T15:56:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.022
+  user: 0.019
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-352.smt2
+TIMESTAMP: 2025-07-28T15:56:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 36.159
+  user: 35.892
+  sys:  0.244
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-353.smt2
+TIMESTAMP: 2025-07-28T15:56:48+02:00
+OUTPUT: unsat
+TIME:
+  real: 22.884
+  user: 22.491
+  sys:  0.377
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-354.smt2
+TIMESTAMP: 2025-07-28T15:57:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-355.smt2
+TIMESTAMP: 2025-07-28T15:57:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-356.smt2
+TIMESTAMP: 2025-07-28T15:57:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-357.smt2
+TIMESTAMP: 2025-07-28T15:57:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-358.smt2
+TIMESTAMP: 2025-07-28T15:57:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-359.smt2
+TIMESTAMP: 2025-07-28T15:57:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-360.smt2
+TIMESTAMP: 2025-07-28T15:57:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-361.smt2
+TIMESTAMP: 2025-07-28T15:57:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 17.508
+  user: 17.254
+  sys:  0.244
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-362.smt2
+TIMESTAMP: 2025-07-28T15:57:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.014
+  user: 0.011
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-363.smt2
+TIMESTAMP: 2025-07-28T15:57:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.014
+  user: 0.011
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-364.smt2
+TIMESTAMP: 2025-07-28T15:57:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.014
+  user: 0.011
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-365.smt2
+TIMESTAMP: 2025-07-28T15:57:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.022
+  user: 0.019
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-366.smt2
+TIMESTAMP: 2025-07-28T15:57:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 16.168
+  user: 15.849
+  sys:  0.310
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-367.smt2
+TIMESTAMP: 2025-07-28T15:57:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-368.smt2
+TIMESTAMP: 2025-07-28T15:57:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 163.009
+  user: 161.369
+  sys:  1.433
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-369.smt2
+TIMESTAMP: 2025-07-28T16:00:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-370.smt2
+TIMESTAMP: 2025-07-28T16:00:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-371.smt2
+TIMESTAMP: 2025-07-28T16:00:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-372.smt2
+TIMESTAMP: 2025-07-28T16:00:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-373.smt2
+TIMESTAMP: 2025-07-28T16:00:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-374.smt2
+TIMESTAMP: 2025-07-28T16:00:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.009
+  user: 0.006
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-375.smt2
+TIMESTAMP: 2025-07-28T16:00:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.010
+  user: 0.007
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-376.smt2
+TIMESTAMP: 2025-07-28T16:00:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.118
+  user: 0.111
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-377.smt2
+TIMESTAMP: 2025-07-28T16:00:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-378.smt2
+TIMESTAMP: 2025-07-28T16:00:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-379.smt2
+TIMESTAMP: 2025-07-28T16:00:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.669
+  user: 1.615
+  sys:  0.054
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-380.smt2
+TIMESTAMP: 2025-07-28T16:00:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.562
+  user: 0.538
+  sys:  0.019
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-381.smt2
+TIMESTAMP: 2025-07-28T16:00:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.625
+  user: 0.578
+  sys:  0.018
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-382.smt2
+TIMESTAMP: 2025-07-28T16:00:31+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.502
+  user: 0.484
+  sys:  0.016
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-383.smt2
+TIMESTAMP: 2025-07-28T16:00:31+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.605
+  user: 0.585
+  sys:  0.016
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-384.smt2
+TIMESTAMP: 2025-07-28T16:00:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.082
+  user: 0.075
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-385.smt2
+TIMESTAMP: 2025-07-28T16:00:32+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.366
+  user: 2.288
+  sys:  0.072
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-386.smt2
+TIMESTAMP: 2025-07-28T16:00:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 9.224
+  user: 9.056
+  sys:  0.151
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-387.smt2
+TIMESTAMP: 2025-07-28T16:00:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 44.201
+  user: 43.234
+  sys:  0.932
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-388.smt2
+TIMESTAMP: 2025-07-28T16:01:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.030
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-389.smt2
+TIMESTAMP: 2025-07-28T16:01:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.155
+  user: 0.148
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-390.smt2
+TIMESTAMP: 2025-07-28T16:01:28+02:00
+OUTPUT: unsat
+TIME:
+  real: 6.144
+  user: 6.023
+  sys:  0.118
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-391.smt2
+TIMESTAMP: 2025-07-28T16:01:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-392.smt2
+TIMESTAMP: 2025-07-28T16:01:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.010
+  user: 0.007
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-393.smt2
+TIMESTAMP: 2025-07-28T16:01:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.010
+  user: 0.007
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-394.smt2
+TIMESTAMP: 2025-07-28T16:01:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.030
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-395.smt2
+TIMESTAMP: 2025-07-28T16:01:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.030
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-396.smt2
+TIMESTAMP: 2025-07-28T16:01:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.034
+  user: 0.030
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-397.smt2
+TIMESTAMP: 2025-07-28T16:01:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.038
+  user: 0.034
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-398.smt2
+TIMESTAMP: 2025-07-28T16:01:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.039
+  user: 0.035
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-399.smt2
+TIMESTAMP: 2025-07-28T16:01:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.071
+  user: 0.065
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-400.smt2
+TIMESTAMP: 2025-07-28T16:01:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.070
+  user: 0.065
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-401.smt2
+TIMESTAMP: 2025-07-28T16:01:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.076
+  user: 0.071
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-402.smt2
+TIMESTAMP: 2025-07-28T16:01:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.083
+  user: 0.078
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-403.smt2
+TIMESTAMP: 2025-07-28T16:01:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.083
+  user: 0.077
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-404.smt2
+TIMESTAMP: 2025-07-28T16:01:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.260
+  user: 1.216
+  sys:  0.039
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-405.smt2
+TIMESTAMP: 2025-07-28T16:01:36+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.556
+  user: 0.531
+  sys:  0.023
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-406.smt2
+TIMESTAMP: 2025-07-28T16:01:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.069
+  user: 0.064
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-407.smt2
+TIMESTAMP: 2025-07-28T16:01:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.073
+  user: 0.068
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-408.smt2
+TIMESTAMP: 2025-07-28T16:01:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.074
+  user: 0.069
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-409.smt2
+TIMESTAMP: 2025-07-28T16:01:37+02:00
+OUTPUT: unsat
+TIME:
+  real: 6.721
+  user: 6.522
+  sys:  0.182
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-410.smt2
+TIMESTAMP: 2025-07-28T16:01:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.033
+  user: 0.029
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-411.smt2
+TIMESTAMP: 2025-07-28T16:01:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 670.674
+  user: 667.513
+  sys:  2.872
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-412.smt2
+TIMESTAMP: 2025-07-28T16:12:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-413.smt2
+TIMESTAMP: 2025-07-28T16:12:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.198
+  user: 0.187
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-414.smt2
+TIMESTAMP: 2025-07-28T16:12:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.061
+  user: 0.057
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-415.smt2
+TIMESTAMP: 2025-07-28T16:12:54+02:00
+OUTPUT: unsat
+TIME:
+  real: 8.551
+  user: 8.339
+  sys:  0.202
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-416.smt2
+TIMESTAMP: 2025-07-28T16:13:03+02:00
+OUTPUT: unsat
+TIME:
+  real: 5.862
+  user: 5.543
+  sys:  0.307
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-417.smt2
+TIMESTAMP: 2025-07-28T16:13:09+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.083
+  user: 1.050
+  sys:  0.030
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-418.smt2
+TIMESTAMP: 2025-07-28T16:13:10+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.063
+  user: 0.056
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-419.smt2
+TIMESTAMP: 2025-07-28T16:13:10+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.184
+  user: 0.173
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-420.smt2
+TIMESTAMP: 2025-07-28T16:13:10+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.065
+  user: 0.060
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-421.smt2
+TIMESTAMP: 2025-07-28T16:13:10+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.066
+  user: 0.061
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-422.smt2
+TIMESTAMP: 2025-07-28T16:13:10+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.061
+  user: 0.057
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-423.smt2
+TIMESTAMP: 2025-07-28T16:13:10+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.061
+  user: 0.056
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-424.smt2
+TIMESTAMP: 2025-07-28T16:13:10+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.531
+  user: 0.512
+  sys:  0.016
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-425.smt2
+TIMESTAMP: 2025-07-28T16:13:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.062
+  user: 0.056
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-426.smt2
+TIMESTAMP: 2025-07-28T16:13:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.066
+  user: 0.061
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-427.smt2
+TIMESTAMP: 2025-07-28T16:13:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.067
+  user: 0.061
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-428.smt2
+TIMESTAMP: 2025-07-28T16:13:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.068
+  user: 0.061
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-429.smt2
+TIMESTAMP: 2025-07-28T16:13:11+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.569
+  user: 0.550
+  sys:  0.017
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-430.smt2
+TIMESTAMP: 2025-07-28T16:13:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.067
+  user: 0.061
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-431.smt2
+TIMESTAMP: 2025-07-28T16:13:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.063
+  user: 0.056
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-432.smt2
+TIMESTAMP: 2025-07-28T16:13:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.104
+  user: 0.096
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-433.smt2
+TIMESTAMP: 2025-07-28T16:13:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.105
+  user: 0.097
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-434.smt2
+TIMESTAMP: 2025-07-28T16:13:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.117
+  user: 0.109
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-435.smt2
+TIMESTAMP: 2025-07-28T16:13:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.130
+  user: 0.123
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-436.smt2
+TIMESTAMP: 2025-07-28T16:13:12+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.119
+  user: 0.113
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-437.smt2
+TIMESTAMP: 2025-07-28T16:13:13+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.186
+  user: 1.151
+  sys:  0.035
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-438.smt2
+TIMESTAMP: 2025-07-28T16:13:14+02:00
+OUTPUT: unsat
+TIME:
+  real: 5.500
+  user: 5.256
+  sys:  0.237
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-439.smt2
+TIMESTAMP: 2025-07-28T16:13:19+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.335
+  user: 1.297
+  sys:  0.038
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-440.smt2
+TIMESTAMP: 2025-07-28T16:13:21+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.114
+  user: 0.106
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-441.smt2
+TIMESTAMP: 2025-07-28T16:13:21+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.244
+  user: 1.201
+  sys:  0.040
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-442.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.122
+  user: 0.112
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-443.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.040
+  user: 0.036
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-444.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-445.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-446.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-447.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-448.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-449.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-450.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-451.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-452.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-453.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-454.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-455.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-456.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-457.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-458.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-459.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-460.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-461.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-462.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-463.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-464.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-465.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-466.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-467.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-468.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-469.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-470.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-471.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-472.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-473.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-474.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-475.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-476.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-477.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-478.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-479.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-480.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-481.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-482.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-483.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-484.smt2
+TIMESTAMP: 2025-07-28T16:13:22+02:00
+OUTPUT: unsat
+TIME:
+  real: 7.884
+  user: 7.677
+  sys:  0.204
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-485.smt2
+TIMESTAMP: 2025-07-28T16:13:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.047
+  user: 0.043
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-486.smt2
+TIMESTAMP: 2025-07-28T16:13:30+02:00
+OUTPUT: unsat
+TIME:
+  real: 2.163
+  user: 2.085
+  sys:  0.074
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-487.smt2
+TIMESTAMP: 2025-07-28T16:13:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.058
+  user: 0.051
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-488.smt2
+TIMESTAMP: 2025-07-28T16:13:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.063
+  user: 0.057
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-489.smt2
+TIMESTAMP: 2025-07-28T16:13:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.174
+  user: 0.164
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-490.smt2
+TIMESTAMP: 2025-07-28T16:13:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.066
+  user: 0.060
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-491.smt2
+TIMESTAMP: 2025-07-28T16:13:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.064
+  user: 0.059
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-492.smt2
+TIMESTAMP: 2025-07-28T16:13:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.063
+  user: 0.058
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-493.smt2
+TIMESTAMP: 2025-07-28T16:13:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.176
+  user: 0.166
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-494.smt2
+TIMESTAMP: 2025-07-28T16:13:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.169
+  user: 0.158
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-495.smt2
+TIMESTAMP: 2025-07-28T16:13:33+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.159
+  user: 0.149
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-496.smt2
+TIMESTAMP: 2025-07-28T16:13:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.168
+  user: 0.159
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-497.smt2
+TIMESTAMP: 2025-07-28T16:13:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.066
+  user: 0.060
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-498.smt2
+TIMESTAMP: 2025-07-28T16:13:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.066
+  user: 0.059
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-499.smt2
+TIMESTAMP: 2025-07-28T16:13:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.073
+  user: 0.066
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-500.smt2
+TIMESTAMP: 2025-07-28T16:13:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.063
+  user: 0.056
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-501.smt2
+TIMESTAMP: 2025-07-28T16:13:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.067
+  user: 0.061
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-502.smt2
+TIMESTAMP: 2025-07-28T16:13:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.183
+  user: 0.174
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-503.smt2
+TIMESTAMP: 2025-07-28T16:13:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.066
+  user: 0.061
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-504.smt2
+TIMESTAMP: 2025-07-28T16:13:34+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.196
+  user: 0.185
+  sys:  0.010
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-505.smt2
+TIMESTAMP: 2025-07-28T16:13:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.196
+  user: 0.186
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-506.smt2
+TIMESTAMP: 2025-07-28T16:13:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.059
+  user: 0.054
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-507.smt2
+TIMESTAMP: 2025-07-28T16:13:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.065
+  user: 0.060
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-508.smt2
+TIMESTAMP: 2025-07-28T16:13:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.177
+  user: 0.169
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-509.smt2
+TIMESTAMP: 2025-07-28T16:13:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.062
+  user: 0.056
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-510.smt2
+TIMESTAMP: 2025-07-28T16:13:35+02:00
+OUTPUT: unsat
+TIME:
+  real: 4.327
+  user: 4.174
+  sys:  0.147
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-511.smt2
+TIMESTAMP: 2025-07-28T16:13:39+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.027
+  user: 0.022
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-512.smt2
+TIMESTAMP: 2025-07-28T16:13:39+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.659
+  user: 0.639
+  sys:  0.018
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-513.smt2
+TIMESTAMP: 2025-07-28T16:13:40+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.026
+  user: 0.021
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-514.smt2
+TIMESTAMP: 2025-07-28T16:13:40+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.419
+  user: 0.408
+  sys:  0.010
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-515.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.060
+  user: 0.056
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-516.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.417
+  user: 0.406
+  sys:  0.010
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-517.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-518.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-519.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-520.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.017
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-521.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.018
+  user: 0.014
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-522.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.019
+  user: 0.016
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-523.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.011
+  user: 0.008
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-524.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.043
+  user: 0.039
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-525.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.075
+  user: 0.070
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-526.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.175
+  user: 0.169
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-527.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.016
+  user: 0.010
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-528.smt2
+TIMESTAMP: 2025-07-28T16:13:41+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.012
+  user: 0.008
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-529.smt2
+TIMESTAMP: 2025-07-28T16:13:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.015
+  user: 0.010
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-530.smt2
+TIMESTAMP: 2025-07-28T16:13:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.053
+  user: 0.047
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-531.smt2
+TIMESTAMP: 2025-07-28T16:13:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.246
+  user: 0.238
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-532.smt2
+TIMESTAMP: 2025-07-28T16:13:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.054
+  user: 0.048
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-533.smt2
+TIMESTAMP: 2025-07-28T16:13:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.285
+  user: 0.278
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-534.smt2
+TIMESTAMP: 2025-07-28T16:13:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.056
+  user: 0.049
+  sys:  0.006
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-535.smt2
+TIMESTAMP: 2025-07-28T16:13:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.244
+  user: 0.236
+  sys:  0.007
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-536.smt2
+TIMESTAMP: 2025-07-28T16:13:42+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.026
+  user: 0.022
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-537.smt2
+TIMESTAMP: 2025-07-28T16:13:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.026
+  user: 0.022
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-538.smt2
+TIMESTAMP: 2025-07-28T16:13:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.397
+  user: 0.385
+  sys:  0.009
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-539.smt2
+TIMESTAMP: 2025-07-28T16:13:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.370
+  user: 0.358
+  sys:  0.011
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-540.smt2
+TIMESTAMP: 2025-07-28T16:13:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.024
+  user: 0.021
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-541.smt2
+TIMESTAMP: 2025-07-28T16:13:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.024
+  user: 0.021
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-542.smt2
+TIMESTAMP: 2025-07-28T16:13:43+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.629
+  user: 0.610
+  sys:  0.016
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-543.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.025
+  user: 0.021
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-544.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-545.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-546.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-547.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-548.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-549.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-550.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-551.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-552.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-553.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-554.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-555.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-556.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-557.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-558.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-559.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-560.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-561.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-562.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.004
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-563.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-564.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-565.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-566.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-567.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-568.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-569.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-570.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-571.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-572.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-573.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-574.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-575.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-576.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-577.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-578.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-579.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.009
+  user: 0.004
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-580.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.003
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-581.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-582.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-583.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.004
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-584.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-585.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.004
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-586.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-587.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-588.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-589.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-590.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-591.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-592.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-593.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-594.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.002
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-595.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-596.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.002
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-597.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.002
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-598.smt2
+TIMESTAMP: 2025-07-28T16:13:44+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-599.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-600.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-601.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-602.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.008
+  user: 0.003
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-603.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-604.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-605.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-606.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.004
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-607.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.007
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-608.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-609.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-610.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-611.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-612.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-613.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-614.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-615.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-616.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-617.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-618.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-619.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.003
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-620.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-621.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-622.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-623.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-624.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-625.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-FdLibm.scala-626.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.006
+  user: 0.004
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Matrix2.scala-0.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.060
+  user: 0.056
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Matrix3.scala-0.smt2
+TIMESTAMP: 2025-07-28T16:13:45+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.954
+  user: 0.904
+  sys:  0.048
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Matrix3.scala-1.smt2
+TIMESTAMP: 2025-07-28T16:13:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.155
+  user: 0.146
+  sys:  0.008
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Rectangle.scala-0.smt2
+TIMESTAMP: 2025-07-28T16:13:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.045
+  user: 0.040
+  sys:  0.005
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Rotation.scala-0.smt2
+TIMESTAMP: 2025-07-28T16:13:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Rotation.scala-1.smt2
+TIMESTAMP: 2025-07-28T16:13:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Rotation.scala-2.smt2
+TIMESTAMP: 2025-07-28T16:13:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.005
+  user: 0.002
+  sys:  0.003
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Rotation.scala-3.smt2
+TIMESTAMP: 2025-07-28T16:13:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 0.004
+  user: 0.002
+  sys:  0.002
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Rotation.scala-4.smt2
+TIMESTAMP: 2025-07-28T16:13:46+02:00
+OUTPUT: unsat
+TIME:
+  real: 1.156
+  user: 1.100
+  sys:  0.047
+EXIT CODE: 0
+
+
+COMMAND: cvc5 -q --produce-models --incremental --lang smt2.6 --arrays-exp smt-sessions/cvc5-Rotation.scala-5.smt2
+TIMESTAMP: 2025-07-28T16:13:47+02:00
+OUTPUT: unsat
+TIME:
+  real: 8.486
+  user: 8.256
+  sys:  0.228
+EXIT CODE: 0
+
